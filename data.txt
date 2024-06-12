@@ -1,0 +1,6810 @@
+[Vertices]
+0000 Courcelle-sur-Yvette
+0001 Les Baconnets
+0002 Saint-Ouen-l'Aumône Quartier de l'Église
+0003 Achères Ville
+0004 Pantin
+0005 Aulnay-sous-Bois
+0006 Saint-Leu-la-Forêt
+0007 Cergy Saint-Christophe
+0008 Saint-Fargeau
+0009 Deuil - Montmagny
+0010 La Croix de Berny Fresnes
+0011 Haussmann Saint-Lazare
+0012 Pont de l'Alma
+0013 Saint-Michel Notre-Dame
+0014 Mitry - Claye
+0015 Orangis Bois de l'Épine
+0016 Les Boullereaux Champigny
+0017 Épinay-sur-Orge
+0018 La Hacquinière
+0019 Le Bras de Fer
+0020 Cernay
+0021 Crépy-en-Valois
+0022 La Varenne - Chennevières
+0023 Breuillet - Bruyères-le-Châtel
+0024 Vosves
+0025 Sermaise
+0026 Pont de Rungis Aéroport d'Orly
+0027 Noisy-le-Sec
+0028 Nation
+0029 Le Parc de Saint-Maur
+0030 La Défense
+0031 Boissy-Saint-Léger
+0032 Boran-sur-Oise
+0033 Poissy
+0034 Ris-Orangis
+0035 Cergy le Haut
+0036 Épinay-sur-Seine
+0037 Auber
+0038 Évry - Val de Seine
+0039 Palaiseau
+0040 Nanterre Université
+0041 Boissise-le-Roi
+0042 Vaux-sur-Seine
+0043 La Borne Blanche
+0044 Nanterre Préfecture
+0045 Lognes
+0046 Saint-Martin d'Étampes
+0047 Drancy
+0048 Charles de Gaulle - Etoile
+0049 Igny
+0050 Luxembourg
+0051 Mantes-la-Jolie
+0052 Palaiseau - Villebon
+0053 Bruyères-sur-Oise
+0054 Juvisy
+0055 Issou - Porcheville
+0056 Péreire Levallois
+0057 Frépillon
+0058 Neuville Université
+0059 Le Plessis Chenet
+0060 Cormeilles-en-Parisis
+0061 Les Noues
+0062 Saint-Quentin en Yvelines - Montigny-le-Bretonneux
+0063 Cergy Préfecture
+0064 Trie-Château
+0065 La Courneuve - Aubervilliers
+0066 Auvers-sur-Oise
+0067 Le Raincy - Villemomble - Montfermeil
+0068 Gare de l'Est
+0069 Champ de Courses d'Enghien
+0070 Villiers-sur-Marne - Le Plessis-Trévise
+0071 Les Mureaux
+0072 Meudon Val Fleury
+0073 Issy
+0074 Louvres
+0075 Sarcelles - Saint-Brice
+0076 Viarmes
+0077 Osny
+0078 La Plaine Stade de France
+0079 Noisy-le-Grand - Mont d'Est
+0080 Saint-Ouen
+0081 Corbeil-Essonnes
+0082 Boussy-Saint-Antoine
+0083 Seugy
+0084 Groslay
+0085 Chilly-Mazarin
+0086 Boissy-l'Aillerie
+0087 Saint-Leu-d'Esserent
+0088 Vauboyen
+0089 Saint-Denis
+0090 Les Clairières de Verneuil
+0091 Évry - Courcouronnes
+0092 Montgeron - Crosne
+0093 Épinay - Villetaneuse
+0094 Chars
+0095 Choisy-le-Roi
+0096 Val de Fontenay
+0097 Brunoy
+0098 Chanteloup-les-Vignes
+0099 Vaucelles
+0100 Bessancourt
+0101 Massy - Palaiseau
+0102 Le Vésinet Centre
+0103 Moret - Veneux-les-Sablons
+0104 Rosny-sur-Seine
+0105 Gare d'Austerlitz
+0106 Robinson
+0107 Pontoise
+0108 Chaponval
+0109 Chaumont-en-Vexin
+0110 Le Chénay Gagny
+0111 Petit Jouy Les Loges
+0112 Montsoult - Maffliers
+0113 Saint-Maur-des-Fossés - Créteil
+0114 Limay
+0115 Ozoir-la-Ferrière
+0116 Antony
+0117 Mériel
+0118 Athis-Mons
+0119 Bièvres
+0120 Maisse
+0121 Grand Bourg
+0122 Bussy-Saint-Georges
+0123 Châtou - Croissy
+0124 Port Royal
+0125 Écouen - Ézanville
+0126 Villiers-le-Bel - Gonesse - Arnouville
+0127 Gare Saint-Lazare
+0128 Lozère
+0129 Champagne-sur-Oise
+0130 Chemin d'Antony
+0131 Franconville - Le Plessis-Bouchard
+0132 Laplace
+0133 Égly
+0134 Ormoy-Villers
+0135 Sartrouville
+0136 Marne-la-Vallée Chessy
+0137 Ponthierry - Pringy
+0138 Magenta
+0139 Nogent-sur-Marne
+0140 Le Plessis-Belleville
+0141 Neuilly Porte Maillot
+0142 Mantes Station
+0143 Champigny
+0144 Villeneuve-le-Roi
+0145 Le Vert de Maisons
+0146 Bures-sur-Yvette
+0147 Arcueil - Cachan
+0148 Pierrelaye
+0149 Argenteuil
+0150 Gare Épluches
+0151 Montgeroult - Courcelles
+0152 Gare de Vernouillet Verneuil
+0153 Les Ardoines
+0154 Fontainebleau - Avon
+0155 Vigneux-sur-Seine
+0156 Saint-Chéron
+0157 Chelles - Gournay
+0158 Pierrefitte - Stains
+0159 Le Coudray-Montceaux
+0160 Herblay
+0161 Bouray
+0162 Stade de France Saint-Denis
+0163 Ivry-sur-Seine
+0164 Ermont - Eaubonne
+0165 Dourdan
+0166 Bondy
+0167 Garges - Sarcelles
+0168 Presles - Courcelles
+0169 Le Vésinet - Le Pecq
+0170 Buno - Gironville
+0171 Bibliothèque François Mitterrand
+0172 Meulan - Hardricourt
+0173 Goussainville
+0174 Lardy
+0175 Roissy-en-Brie
+0176 Pont Petit
+0177 Bagneux
+0178 Versailles Chantiers
+0179 Thun le Paradis
+0180 Creil
+0181 Vernouillet - Verneuil
+0182 Savigny-le-Temple - Nandy
+0183 Villepinte
+0184 Gagny
+0185 Gif-sur-Yvette
+0186 Nointel - Mours
+0187 Vert Galant
+0188 Bourg-la-Reine
+0189 Versailles Château Rive Gauche
+0190 Torcy
+0191 Gravigny Balizy
+0192 Survilliers - Fosses
+0193 Étampes
+0194 Juziers
+0195 Champ de Mars Tour Eiffel
+0196 Bouffémont - Moisselles
+0197 Domont
+0198 Saint-Ouen-l'Aumône Liesse
+0199 Ablon
+0200 L'Isle-Adam - Parmain
+0201 Combs-la-Ville - Quincy
+0202 Essonnes Robinson
+0203 Noisiel
+0204 Musée d'Orsay
+0205 Saint-Michel-sur-Orge
+0206 Chantilly - Gouvieux
+0207 Conflans Fin d'Oise
+0208 Châtelet les Halles
+0209 Us
+0210 Gentilly
+0211 Vernon - Giverny
+0212 Denfert-Rochereau
+0213 Grigny Centre
+0214 Massy - Verrières
+0215 Éragny - Neuville
+0216 Savigny-sur-Orge
+0217 Villeneuve-Saint-Georges
+0218 Villeneuve Triage
+0219 Viry-Châtillon
+0220 Andrésy
+0221 Cité Universitaire
+0222 Arpajon
+0223 Le Blanc-Mesnil
+0224 Saint-Mammès
+0225 Colombes
+0226 Montereau
+0227 Gretz-Armainvilliers
+0228 La Frette - Montigny
+0229 Gare de Lyon
+0230 La Norville - Saint-Germain-lès-Arpajon
+0231 Orsay Ville
+0232 Gisors
+0233 Bois-le-Roi
+0234 Persan - Beaumont
+0235 Mennecy
+0236 Pont du Garigliano - Hôpital Européen G. Pompidou
+0237 Yerres
+0238 Villabé
+0239 Valmondois
+0240 Petit Vaux
+0241 Avenue du Président Kennedy Maison de Radio France
+0242 Bonnières
+0243 Sucy - Bonneuil
+0244 Émerainville - Pontault-Combault
+0245 Avenue Foch
+0246 Rueil-Malmaison
+0247 Rungis la Fraternelle
+0248 Épône - Mézières
+0249 Conflans-Sainte-Honorine
+0250 Gare de Chamarande
+0251 Belloy - Saint-Martin
+0252 Melun
+0253 Orly Ville
+0254 Fontenay-aux-Roses
+0255 Issy Val de Seine
+0256 Le Guichet
+0257 Saint-Germain-en-Laye
+0258 Les Yvris Noisy-le-Grand
+0259 Tournan
+0260 Saint-Cyr
+0261 Montigny - Beauchamp
+0262 Aéroport CDG 1 (Terminal 3) - RER
+0263 Boigneville
+0264 Enghien-les-Bains
+0265 Noisy - Champs
+0266 Saint-Ouen-l'Aumône
+0267 Invalides
+0268 Thieux - Nantouillet
+0269 Maisons-Alfort - Alfortville
+0270 Lieusaint - Moissy
+0271 Moulin Galant
+0272 Neuilly-Plaisance
+0273 Achères Grand Cormier
+0274 Fontaine Michalon
+0275 Sannois
+0276 Méry-sur-Oise
+0277 Liancourt-Saint-Pierre
+0278 Compans
+0279 Nogent - Le Perreux
+0280 Dourdan la Forêt
+0281 Rosa Parks
+0282 Boulainvilliers
+0283 Vincennes
+0284 Sevran Beaudottes
+0285 Rosny Bois Perrier
+0286 Asnières-sur-Seine
+0287 Étréchy
+0288 Orry-la-Ville - Coye
+0289 Bois-Colombes
+0290 Rosny-sous-Bois
+0291 Villaines
+0292 Précy-sur-Oise
+0293 Marolles-en-Hurepoix
+0294 Bry-sur-Marne
+0295 Les Grésillons
+0296 Taverny
+0297 La Ferté-Alais
+0298 Longjumeau
+0299 Parc de Sceaux
+0300 Brétigny
+0301 Sceaux
+0302 Maurecourt
+0303 Val d'Argenteuil
+0304 Le Mée
+0305 Jouy-en-Josas
+0306 Dammartin - Juilly - Saint-Mard
+0307 Javel
+0308 Les Saules
+0309 Chaville - Vélizy
+0310 Porchefontaine
+0311 Gare du Nord
+0312 Houilles - Carrières-sur-Seine
+0313 Avenue Henri Martin
+0314 Malesherbes
+0315 Parc des Expositions
+0316 Gargenville
+0317 La Barre Ormesson
+0318 Saint-Gratien
+0319 Villennes-sur-Seine
+0320 Breuillet Village
+0321 Le Bourget
+0322 Aéroport Charles de Gaulle 2 (Terminal 2)
+0323 Joinville-le-Pont
+0324 Val d'Europe
+0325 Triel-sur-Seine
+0326 Lavilletertre
+0327 Cesson
+0328 Luzarches
+0329 Le Stade
+0330 Viroflay Rive Gauche
+0331 Thomery
+0332 Santeuil - Le Perchay
+0333 Villeparisis - Mitry-le-Neuf
+0334 Ballancourt
+0335 Gennevilliers
+0336 Ermont Halte
+0337 Créteil Pompadour
+0338 Gros Noyer Saint-Prix
+0339 Boutigny
+0340 Aubergenville Élisabethville
+0341 Nanterre Ville
+0342 Porte de Clichy
+0343 Sainte-Geneviève-des-Bois
+0344 Maisons-Laffitte
+0345 Saint-Rémy-lès-Chevreuse
+0346 Fontenay-sous-Bois
+0347 Vitry-sur-Seine
+0348 Nanteuil-le-Haudouin
+0349 Sevran - Livry
+0350 Garges - Sarcelles RER
+0351 Évry
+0352 Mairie
+0353 Gare de Grigny Centre
+0354 La Fayette - Dunkerque
+0355 Gare Routière Seine
+0356 Brunoy 2
+0357 Gare de Ballancourt
+0358 Savigny-le-Temple - Nandy 2
+0359 Gare du Raincy Villemomble Montfermeil
+0360 Gare de Vauboyen
+0361 Gare de Colombes
+0362 Moulin Galant 2
+0363 Viry-Châtillon 2
+0364 Gare Saint-Lazare 2
+0365 Champs Elysées - Grand Bourg
+0366 Ris-Orangis 2
+0367 Jouy-en-Josas 2
+0368 Pantin RER - Mairie
+0369 Combs la Ville Quincy
+0370 Boussy Saint-Antoine
+0371 Rue du Puits
+0372 Gare des Mureaux (A3)
+0373 Gare de Juziers
+0374 Gare de Mantes-la-Jolie - Quai 8
+0375 Gare de Maurecourt
+0376 La Norville - Saint-Germain-lès-Arpajon 2
+0377 Ozoir-la-Ferrière 2
+0378 Villeneuve Triage 2
+0379 Évry 2
+0380 Survilliers - Fosses 2
+0381 Poissy 2
+0382 Gare d'Essonnes Robinson
+0383 Rue du Puits 2
+0384 Chaville - Vélizy 2
+0385 Rosny-sous-Bois 2
+0386 Gare de Villeneuve-le-Roi
+0387 Andrésy 2
+0388 Bibliothèque François Mitterrand 2
+0389 Vernouillet Verneuil
+0390 Gare de Saint-Michel-sur-Orge
+0391 Gare de Triel-sur-Seine
+0392 Gare de Maurecourt 2
+0393 République - Vaillant Couturier
+0394 Stade de France Saint-Denis 2
+0395 Gare du Petit-Jouy - Les Loges
+0396 Versailles Château Rive Gauche 2
+0397 Pont de Rungis Aéroport d'Orly 2
+0398 Gare de Poissy
+0399 Gare des Mureaux (D3)
+0400 Les Sablons
+0401 Corbeil-Essonnes 2
+0402 Issou - Porcheville 2
+0403 Mairie 2
+0404 Gare de Moulin Galant
+0405 Sartrouville 2
+0406 Yerres 2
+0407 Les Ardoines 2
+0408 Gare SNCF
+0409 Petit Vaux 2
+0410 Thieux - Nantouillet 2
+0411 Les Ardoines 3
+0412 Mantes la Jolie
+0413 Aubergenville Élisabethville 2
+0414 Mairie 3
+0415 Maisons-Alfort - Alfortville 2
+0416 Chanteloup-les-Vignes 2
+0417 Foch Pasteur / Maurecourt
+0418 Chantilly - Gouvieux 2
+0419 Gare de Sermaise
+0420 Calmette / Mantes Station
+0421 Gare - Hôtel de Ville
+0422 Noisy-le-Grand Mont d'Est
+0423 Gare SNCF 2
+0424 La Frette - Montigny 2
+0425 Val d'Argenteuil 2
+0426 Saint-Chéron 2
+0427 Melun 2
+0428 Conservatoire / Essonnes Robinson
+0429 Stade / La justice
+0430 Moulin Galant 3
+0431 Gare de Pontoise
+0432 Saint-Christophe RER
+0433 Noisy-le-Sec 2
+0434 Arquebuse
+0435 Boutigny 2
+0436 Les Yvris Noisy-le-Grand 2
+0437 Boissise-le-Roi 2
+0438 Boulevard Thiers / Thun le Paradis
+0439 Mairie / Les Noues
+0440 Saint-Fargeau 2
+0441 Gare de Pontault (Place Beilstein)
+0442 Gare de Bois-Colombes
+0443 Place de l'Europe / Mantes Station
+0444 Conservatoire / Essonnes Robinson 2
+0445 Épinay-sur-Orge 2
+0446 Bouray 2
+0447 Neuville RER
+0448 Pont du Garigliano - Hôpital Européen G. Pompidou 2
+0449 Gare d'Essonnes Robinson 2
+0450 Gare de Cergy le Haut
+0451 Gargenville 2
+0452 Division Leclerc
+0453 La Mare
+0454 Saint-Martin d'Étampes 2
+0455 Ponthierry - Pringy 2
+0456 Marolles-en-Hurepoix 2
+0457 Saint-Denis 2
+0458 Goussainville 2
+0459 Gare de Lieusaint Moissy
+0460 Melun 3
+0461 Gare de Villennes-sur-Seine
+0462 Le Stade 2
+0463 Gare Ponthierry-Pringy
+0464 Place de Belgique
+0465 Boissise-le-Roi 3
+0466 Gare de Gagny
+0467 Chelles - Gournay RER
+0468 Andrésy 3
+0469 Conflans Fin d'Oise 2
+0470 Le Mée 2
+0471 Cacao Barry / Meulan Hardricourt
+0472 Le Bras de Fer 2
+0473 Gare de Dammartin Juilly Saint Mard
+0474 Mairie / Les Noues 2
+0475 Gare d'Argenteuil
+0476 Gare de Val de Fontenay
+0477 Le Vert de Maisons 2
+0478 Gare de Ballancourt 2
+0479 Pont du Garigliano - Hôpital Européen G. Pompidou 3
+0480 Vaux-sur-Seine 2
+0481 Gare de La Ferté Alais
+0482 Issy Val de Seine 2
+0483 Arquebuse / La Poste
+0484 Andrésy 4
+0485 Longjumeau 2
+0486 Athis Mons
+0487 Orry-la-Ville - Coye 2
+0488 Gare de Melun
+0489 Sainte-Geneviève-des-Bois 2
+0490 Gare de Lyon - Van Gogh
+0491 Bibliothèque François Mitterrand 3
+0492 Égly 2
+0493 Porchefontaine / Octroi
+0494 Grigny Centre 2
+0495 Gare de Tournan en Brie
+0496 Gare SNCF 3
+0497 Gare d'Issou
+0498 Dourdan 2
+0499 Ablon 2
+0500 Choisy-le-Roi RER
+0501 Villeneuve-Saint-Georges 2
+0502 Orangis Bois de l'Épine 2
+0503 Gare des Clairières de Verneuil
+0504 Val Fleury RER
+0505 Gare d'Étréchy
+0506 Breuillet - Bruyères-le-Châtel 2
+0507 Cacao Barry / Meulan Hardricourt 2
+0508 Les Boullereaux
+0509 Gravigny Balizy 2
+0510 Le Coudray-Montceaux 2
+0511 Gare de Limay
+0512 Cesson 2
+0513 La Garenne-Colombes
+0514 Rosny Bois Perrier 2
+0515 Gare de Chanteloup-les-Vignes
+0516 Gare de Chilly-Mazarin
+0517 Gare de Limay 2
+0518 Jean Jaurès
+0519 Gare de Roissy-en-Brie
+0520 Breuillet Village 2
+0521 Ponthierry - Pringy 3
+0522 République - Vaillant Couturier 2
+0523 Montgeron - Crosne 2
+0524 Farcy
+0525 Val Fleury RER 2
+0526 Gare de Bièvres
+0527 Stade / La justice 2
+0528 Saint-Denis 3
+0529 Rosa Parks 2
+0530 Gare de Chanteloup les Vignes
+0531 Villiers-le-Bel - Gonesse - Arnouville 2
+0532 Saint-Ouen-l'Aumône Quartier de l'Église 2
+0533 Gare de Villabé
+0534 Place Coutisson
+0535 Ivry-sur-Seine RER
+0536 Houilles - Carrières-sur-Seine 2
+0537 Gare de Viry-Châtillon
+0538 La Borne Blanche 2
+0539 Farcy 2
+0540 Lardy 2
+0541 Place du Vexin
+0542 Varsovie
+0543 Savigny-sur-Orge 2
+0544 Nanterre Université 2
+0545 Mitry - Claye 2
+0546 Rosny Bois Perrier 3
+0547 Le Coudray-Montceaux 3
+0548 Gabriel Péri / Viroflay Rive Gauche
+0549 Place du Vexin 2
+0550 Orly Ville 2
+0551 Balzac
+0552 Évry Courcouronnes
+0553 Achères Ville 2
+0554 Arpajon 2
+0555 Malesherbes 2
+0556 Boulevard Thiers / Thun le Paradis 2
+0557 Gretz-Armainvilliers 2
+0558 Gare du Petit-Jouy - Les Loges 2
+0559 Chelles Gournay RER / Gasnier Guy
+0560 Gare de Mennecy Rue de l'Abreuvoir
+0561 Gare de Lieusaint Moissy 2
+0562 Vosves 2
+0563 Boigneville 2
+0564 Thun le Paradis 2
+0565 Gare de Vaux sur Seine
+0566 Chamarande
+0567 Villeneuve Triage 3
+0568 Ivry-sur-Seine RER 2
+0569 Creil 2
+0570 Gare de Cergy Préfecture (C)
+0571 Gare de Pierrefitte - Stains RER
+0572 Gare SNCF 4
+0573 Pont Cardinet
+0574 Juvisy 2
+0575 Le Plessis-Belleville 2
+0576 La Plaine - Stade de France RER
+0577 Versailles Chantiers 2
+0578 Vosves 3
+0579 Gare de Savigny-sur-Orge RER
+0580 Gare de Cormeilles - Place Semard
+0581 Les Saules 2
+0582 Herblay 2
+0583 Gare de Juziers 2
+0584 Jean Jaurès 2
+0585 Éragny - Neuville 2
+0586 Le Vert de Maisons 3
+0587 Villabé 2
+0588 Jean Jaurès 3
+0589 Gare d'Issou 2
+0590 Ormoy-Villers 2
+0591 Place Robespierre
+0592 Gare de Massy Palaiseau
+0593 Villabé 3
+0594 Gare d'Epône Mézières
+0595 Place Robespierre 2
+0596 Paris Austerlitz
+0597 Vigne Blanche
+0598 Gare de Clichy - Levallois
+0599 Javel 2
+0600 Brétigny 2
+0601 Nogent-le-Perreux
+0602 Gare de Villabé 2
+0603 Gare d'Étampes
+0604 Gare de Val de Fontenay 2
+0605 Les Vallées
+0606 Orly 4
+0607 Gare de Triel sur Seine
+0608 Gare d'Igny
+0609 Nanteuil-le-Haudouin 2
+0610 Villiers-sur-Marne - Le Plessis-Trévise RER
+0611 Paris Est
+0612 Varsovie 2
+0613 Conflans-Sainte-Honorine 2
+0614 Gare de Maisons-Laffitte
+0615 Créteil Pompadour 2
+0616 Louvres 2
+0617 Gare de Maisse
+0618 Champs Elysées - Grand Bourg 2
+0619 Boussy Saint Antoine
+0620 Gare de Conflans Fin d'Oise
+0621 Vigneux-sur-Seine 2
+0622 Saint-Quentin - Gare Routière des Prés (Quai A)
+0623 Issy-RER
+0624 Rue de la Station
+0625 Compans 2
+0626 Mennecy 2
+0627 L'Étang-la-Ville
+0628 Sèvres - Ville-d'Avray
+0629 La Celle-Saint-Cloud
+0630 Viroflay Rive Droite
+0631 Vaucresson
+0632 Suresnes Mont Valérien
+0633 Chaville Rive Droite
+0634 Pont Cardinet 2
+0635 Le Val d'Or
+0636 Saint-Cloud
+0637 Les Vallées 2
+0638 Bécon les Bruyères
+0639 Montreuil
+0640 Puteaux
+0641 Garches - Marnes-la-Coquette
+0642 La Garenne-Colombes 2
+0643 Louveciennes
+0644 Courbevoie
+0645 Versailles Rive Droite
+0646 Saint-Nom-la-Bretèche Forêt de Marly
+0647 Bougival
+0648 Marly-le-Roi
+0649 Clichy - Levallois
+0650 Saint-Germain-en-Laye Grande Ceinture
+0651 Saint-Nom-la-Bretèche Forêt de Marly 2
+0652 Fourqueux - Bel Air
+0653 Gare de La Garenne-Colombes
+0654 Mareil-Marly
+0655 Gare de Noisy le Roi
+0656 Mareil-Marly 2
+0657 Fourqueux - Bel Air 2
+0658 La Ferté-sous-Jouarre
+0659 Verneuil-l'Étang
+0660 Clamart
+0661 Bellevue
+0662 Lizy-sur-Ourcq
+0663 Lagny - Thorigny
+0664 Mouroux
+0665 Faremoutiers - Pommeuse
+0666 Vaires - Torcy
+0667 Coulommiers
+0668 Provins
+0669 Villiers - Neauphle - Pontchartrain
+0670 Fontaine-le-Port
+0671 Trilport
+0672 Le Perray
+0673 Sèvres Rive Gauche
+0674 Héricy
+0675 Champbenoist Poigny
+0676 Plaisir - Grignon
+0677 Mortcerf
+0678 Plaisir - Les Clayes
+0679 Guérard - La Celle-sur-Morin
+0680 Beynes
+0681 Crouy-sur-Ourcq
+0682 Sainte-Colombe Septveilles
+0683 Villepreux - Les Clayes
+0684 Ferrières - Fontenay
+0685 Montry - Condé
+0686 Gare Montparnasse
+0687 Houdan
+0688 Trappes
+0689 Isles - Armentières - Congis
+0690 Nangis
+0691 Nemours - Saint-Pierre
+0692 Meudon
+0693 Montargis
+0694 Chézy-sur-Marne
+0695 La Grande-Paroisse
+0696 Mareuil-sur-Ourcq
+0697 Changis - Saint-Jean
+0698 Crécy-la-Chapelle
+0699 Mormant
+0700 Montfort-l'Amaury - Méré
+0701 Montigny-sur-Loing
+0702 Chaville Rive Gauche
+0703 Bourron-Marlotte - Grez
+0704 Meaux
+0705 Maule
+0706 Chartrettes
+0707 Souppes - Château-Landon
+0708 Vulaines-sur-Seine - Samoreau
+0709 Vanves - Malakoff
+0710 Tacoignières - Richebourg
+0711 Dreux
+0712 Dordives
+0713 Mareil-sur-Mauldre
+0714 Orgerus - Béhoust
+0715 Marchezais - Broué
+0716 Nanteuil - Saâcy
+0717 Fontenay-le-Fleury
+0718 Les Essarts-le-Roi
+0719 Marles-en-Brie
+0720 Livry-sur-Seine
+0721 Garancières - La Queue
+0722 Nézel - Aulnay
+0723 Nogent-L'Artaud - Charly
+0724 Bagneaux-sur-Loing
+0725 La Verrière
+0726 Esbly
+0727 Rambouillet
+0728 Coignières
+0729 Villiers Montbarbin
+0730 La Ferté-Milon
+0731 Château-Thierry
+0732 Vernou-sur-Seine
+0733 Longueville
+0734 Couilly - Saint-Germain - Quincy
+0735 Champagne-sur-Seine
+0736 Pierre Sémard - Paul Vaillant Couturier
+0737 Gargan
+0738 Gare de Blanc-Mesnil
+0739 Quai de la Gare
+0740 Roissypole - Aéroport CDG1 (B3)
+0741 Chézy-sur-Marne 2
+0742 Freinville Sevran
+0743 Hôpital / Hôtel de Ville
+0744 Arboretum
+0745 Léon Blum
+0746 Saint-Rémy-la-Vanne
+0747 Atrium
+0748 Grâce de Dieu
+0749 Gare de Maisons Alfort Alfortville
+0750 Léon Blum 2
+0751 Gare du Vert Galant
+0752 Gare d'Evry Courcouronnes Centre (niveau 0)
+0753 Cours des Lacs
+0754 Parc du Tremblay
+0755 Pasteur
+0756 Dordives 2
+0757 Notre-Dame-des-Anges
+0758 Gare d'Orly-Ville
+0759 Aulnay-sous-Bois 2
+0760 Gare du Nord 2
+0761 Lycée Henri Sellier
+0762 Gare de Lyon - Diderot
+0763 Trappes Yves Farges
+0764 Épinay-sur-Orge 3
+0765 Mairie 4
+0766 Bondy 2
+0767 Bellevue 2
+0768 Gare de Plaisir-Les Clayes
+0769 Divison Leclerc
+0770 Gare de Torcy
+0771 Gare du Nord 3
+0772 Brunoy (Gare)
+0773 Gare du Blanc-Mesnil
+0774 Orgerus - Béhoust 2
+0775 Versailles Chantiers 3
+0776 Gare Montparnasse 2
+0777 Chessy / Mairie
+0778 Athis-Mons 2
+0779 Rosny-sous-Bois RER
+0780 Terroirs de France
+0781 Le Bourget 2
+0782 Parc du Tremblay 2
+0783 Noisy - Champs 2
+0784 Moulin de Boissy
+0785 Gare de Sevran-Livry Sud
+0786 Avenue du Général Leclerc
+0787 Provins 2
+0788 Maule 2
+0789 Gare du Nord 4
+0790 Chessy Nord - Quai F
+0791 Aulnay-sous-Bois 3
+0792 Aulnay-sous-Bois 4
+0793 Gare de Champagne-sur-Seine
+0794 Jean Jaurès 4
+0795 Villeneuve Prairie / Pompadour
+0796 La Passerelle
+0797 Gare d'Orly-Ville 2
+0798 Champbenoist Poigny 2
+0799 Orly 1-2-3
+0800 Arboretum 2
+0801 Porte de Versailles
+0802 Gare de Vaires Torcy
+0803 Hôpital Jean Rostand
+0804 Luther King
+0805 Franche-Comté Bourgogne
+0806 Porte d'Italie
+0807 Foyer des Bruyères
+0808 Porte de Vitry
+0809 La Fayette - Dunkerque 2
+0810 République
+0811 Friedberg
+0812 Moulin de Boissy 2
+0813 Escadrille Normandie-Niemen - Jean Jaurès Tram
+0814 Pyramides / Lycée des Loges
+0815 Gare Chaville Rive Droite
+0816 Souppes - Château-Landon 2
+0817 Allée de la Tour-Rendez-vous
+0818 Hôpital de Montfermeil
+0819 L'Abbaye
+0820 Freinville Westinghouse
+0821 La Petite Villedieu
+0822 Le Clos Montceleux
+0823 Romain Rolland
+0824 Coignières 2
+0825 Remise à Jorelle
+0826 L'Abbaye 2
+0827 Allée de la Tour-Rendez-vous 2
+0828 L'Abbaye 3
+0829 Remise à Jorelle 2
+0830 Vanves - Malakoff 2
+0831 Noisy-le-Grand - Mont d'Est RER
+0832 Sevran Beaudottes 2
+0833 République P.V.Couturier
+0834 Gare du Mont-Valérien
+0835 Cesson Gare RER
+0836 Montargis 2
+0837 Gare de Versailles Rive Gauche
+0838 Gare de Vaires Torcy 2
+0839 Gare de Sevres - Rive Gauche
+0840 Versailles Chantiers 4
+0841 Houdan 2
+0842 Paris Saint-Lazare
+0843 Villiers Montbarbin 2
+0844 Yerres 3
+0845 Gare du Bras de Fer Evry Génopole
+0846 Nemours - Saint-Pierre 2
+0847 Dugny - La Courneuve
+0848 Balard
+0849 Cargo Centre
+0850 Maurice Audin
+0851 Fer à Cheval / Gaston Viens
+0852 Porte de Vitry 2
+0853 Évry - Courcouronnes 2
+0854 Gare de Pierrelaye
+0855 Rougemont Chanteloup
+0856 Gare de Melun 2
+0857 Le Perray 2
+0858 Eglise
+0859 Marguilliers
+0860 Gare de Plaisir Grignon
+0861 Rond-Point Wittlich
+0862 Cargo Centre 2
+0863 Puteaux 2
+0864 Fourchette de Bry
+0865 Robert Schuman
+0866 Gare
+0867 Gare de Chaville Rive Gauche
+0868 Gare SNCF 5
+0869 Pantin RER - Mairie 2
+0870 Paul Langevin
+0871 Sainte-Colombe Septveilles 2
+0872 La Verrière Gare
+0873 Gare de Montigny Beauchamp
+0874 L'Abbaye 4
+0875 Bibliothèque Chevaleret
+0876 Les Tilleuls
+0877 Noisy-le-Grand - Mont d'Est RER 2
+0878 Paris Est 2
+0879 Arboretum 3
+0880 Provins 3
+0881 Dreux 2
+0882 Saint Cyr
+0883 Cabane Noire / Montévrain
+0884 Gare de Crouy sur Ourcq
+0885 Villiers-sur-Marne - Le Plessis-Trévise RER 2
+0886 Collège Jean Monnet
+0887 Espace V
+0888 Rougemont Chanteloup 2
+0889 Aristide Briand
+0890 Porte des Matelots
+0891 Bondy 3
+0892 Rue des Vignes
+0893 Montigny-sur-Loing 2
+0894 Paul Painlevé / Place Gounot
+0895 Gare de Villeneuve-Saint-Georges
+0896 Gare de l'Est 2
+0897 Gare de Chelles Gournay
+0898 Eglise 2
+0899 La Défense 2
+0900 Groupe Scolaire Pasteur
+0901 Gare Saint-Lazare 3
+0902 Fontainebleau - Avon 2
+0903 Quincy-sous-Sénart
+0904 Collège du Segrais
+0905 République - Marx Dormoy
+0906 Porchefontaine 2
+0907 Gare de Liesse - Quai A
+0908 Gare de Bois le Roi
+0909 Vulaines-sur-Seine - Samoreau 2
+0910 Tarterêts
+0911 Gare de Longueville
+0912 Gare de Couilly St Germain Quincy
+0913 La Verrière 2
+0914 Esbly 2
+0915 Ministère de l'Économie et des Finances
+0916 Pierrefitte - Stains 2
+0917 Gare de Drancy
+0918 Trappes 2
+0919 Sèvres Rive Gauche / Mairie
+0920 Villiers-sur-Marne - Le Plessis-Trévise RER 3
+0921 Aéroport Charles de Gaulle 2 (Terminal 2) 2
+0922 Les Coquetiers
+0923 Villepreux - Les Clayes 2
+0924 République - Marx Dormoy 2
+0925 Gare de Bussy-Saint-Georges
+0926 Vert Galant 2
+0927 Rougemont Chanteloup 3
+0928 Meudon 2
+0929 André Malraux
+0930 Paris Est 3
+0931 Edouard Branly / Pierre Edouard
+0932 La Houssaye en Brie Gare Marles en Brie
+0933 Gare de Cergy Préfecture (E)
+0934 Mairie 5
+0935 Roissypole - Aéroport CDG1 (D1)
+0936 Lycée Henri Sellier 2
+0937 Champgoulin
+0938 Maurice Audin 2
+0939 Gargan 2
+0940 Eustache Lenoir
+0941 Espace V 2
+0942 Aéroport Charles de Gaulle 2 (Terminal 2) 3
+0943 Livry-sur-Seine 2
+0944 Gargan 3
+0945 Foch / Paix Notre Dame
+0946 Avenue de Gaumont
+0947 Coulommiers 2
+0948 Champgoulin 2
+0949 Jean-Pierre Timbaud
+0950 Le Bourget RER
+0951 Place d'Italie - Mairie du 13e
+0952 Saint-Fiacre
+0953 Quincy-sous-Sénart 2
+0954 Notre-Dame-des-Anges 2
+0955 Gare de l'Est 3
+0956 Gare de Fontaine le Port
+0957 Gare de Villeneuve-le-Roi 2
+0958 Rue des Vignes 2
+0959 Nézel - Aulnay 2
+0960 Vernou-sur-Seine 2
+0961 Gare de Beynes
+0962 Allée de la Tour-Rendez-vous 3
+0963 Marguilliers 2
+0964 Gare de Villiers Montbarbin
+0965 Ivry-sur-Seine / Voltaire
+0966 Sainte-Colombe Septveilles 3
+0967 Robert Schuman 2
+0968 Terminal 1
+0969 Ozoir-la-Ferrière Armainvilliers
+0970 Place du 19 Mars 1962 / Drancy
+0971 Gare de Liesse - Quai F
+0972 Neuilly Plaisance
+0973 Luther King 2
+0974 Lycée Henri Sellier 3
+0975 Pyramide de Juvisy
+0976 Villepinte 2
+0977 Mareuil-sur-Ourcq 2
+0978 Isles - Armentières - Congis 2
+0979 Romain Rolland 2
+0980 Eustache Lenoir 2
+0981 Esbly / Mairie
+0982 Hôpital Jean Rostand 2
+0983 Allée de la Tour-Rendez-vous 4
+0984 Saint-Siméon
+0985 Pierrefitte - Stains 3
+0986 Gare de Bourron-Marlotte Grez
+0987 Clichy - Montfermeil
+0988 Groupe Scolaire Pasteur 2
+0989 Notre-Dame-des-Anges 3
+0990 Jean Jaurès 5
+0991 Chessy / Mairie 2
+0992 Mairie 6
+0993 Edouard Branly / Pierre Edouard 2
+0994 Versailles Chantiers 5
+0995 Porte de Paris - Stade de France
+0996 Clichy-sous-Bois - Mairie
+0997 Paul Langevin 2
+0998 Nogent-L'Artaud - Charly 2
+0999 La Ferté Gaucher Centre
+1000 Pyramides / Lycée des Loges 2
+1001 Chauffry
+1002 Yves Farge
+1003 Place du 19 Mars 1962 / Drancy 2
+1004 Clichy - Montfermeil 2
+1005 La Ferté-Gaucher
+1006 Atrium 2
+1007 Bondy 4
+1008 Gare de Drancy 2
+1009 Porte de la Chapelle
+1010 Château-Thierry 2
+1011 La Passerelle 2
+1012 Épinay - Villetaneuse 2
+1013 Gare de Saint-Michel-sur-Orge 2
+1014 Quai de la Gare 2
+1015 Clichy-sous-Bois - Mairie 2
+1016 Saint-Christophe RER 2
+1017 Clichy-sous-Bois - Mairie 3
+1018 Gare de Sèvres - Ville d'Avray Rive Droite
+1019 Fer à Cheval
+1020 Combs-la-Ville - Quincy 2
+1021 Gare de Tournan-en-Brie (Côté guichet)
+1022 Gare de Verneuil-l'Etang
+1023 Sèvres Rive Gauche / Mairie 2
+1024 Gare de Lyon - Diderot 2
+1025 Lagny Thorigny / Foch
+1026 Porte de Bagnolet
+1027 Foyer des Bruyères 2
+1028 Choisy le Roi / Rouget de Lisle
+1029 Gare de Chartrettes
+1030 Chessy Nord - Quai G
+1031 Les Pyramides
+1032 Ville Évrard
+1033 Pantin RER - Mairie 3
+1034 Nogent - Le Perreux 2
+1035 Nanteuil - Saâcy 2
+1036 Les Pavillons-sous-Bois
+1037 Choisy le Roi / Rouget de Lisle 2
+1038 Les Matelots
+1039 Le Perray 3
+1040 Villetaneuse Université
+1041 Gargan 4
+1042 Gare Montparnasse 3
+1043 Saint-Rémy-la-Vanne 2
+1044 Porte de la Chapelle 2
+1045 Stains la Cerisaie
+1046 Cours des Lacs 2
+1047 Marcel Sembat - Métro
+1048 Henri IV
+1049 Chauffry 2
+1050 Gare de Ferrières Fontenay
+1051 Corbeil-Essonnes 3
+1052 Rond-Point Wittlich 2
+1053 Les Pavillons-sous-Bois 2
+1054 La Grande-Paroisse 2
+1055 Épinay-sur-Seine 2
+1056 Maisons-Alfort - Alfortville 3
+1057 Escadrille Normandie-Niemen - Jean Jaurès Tram 2
+1058 Pyramide de Brunoy
+1059 République - La Poste
+1060 Changis - Saint-Jean 2
+1061 Blazy
+1062 Gare de Lyon - Van Gogh 2
+1063 La Petite Villedieu 2
+1064 Daumesnil
+1065 Gare du Mont-Valérien 2
+1066 Savigny le Temple Nandy
+1067 Aristide Briand 2
+1068 Le Clos Montceleux 2
+1069 Viroflay Rive Gauche / Gabriel Péri
+1070 Gargan 5
+1071 Rosa Parks 3
+1072 Gare de Montry-Condé
+1073 Tacoignières - Richebourg 2
+1074 Porte de Bagnolet 2
+1075 Les Coquetiers 2
+1076 Champbenoist Poigny 3
+1077 Franche-Comté Bourgogne 2
+1078 Mouroux 2
+1079 Clamart 2
+1080 Gare de Montry-Condé 2
+1081 Coulommiers 3
+1082 Thomery 2
+1083 Porte d'Italie 2
+1084 Meaux 2
+1085 Épinay - Villetaneuse 3
+1086 Ministère de l'Économie et des Finances 2
+1087 Gare Montparnasse 4
+1088 Le Mée 3
+1089 André Malraux 2
+1090 Ivry Sur Seine / Voltaire
+1091 Porte de la Villette
+1092 Collège Jean Monnet 2
+1093 Aulnay-sous-Bois 5
+1094 Val d'Europe 2
+1095 Freinville Sevran 2
+1096 La Courneuve - Aubervilliers 2
+1097 Dugny - La Courneuve 2
+1098 Villeneuve-Saint-Georges 3
+1099 Aulnay-sous-Bois 6
+1100 Villeparisis - Mitry-le-Neuf 2
+1101 Villeneuve Triage 4
+1102 Lycée Henri Sellier 4
+1103 Versailles Chantiers 6
+1104 Les Pyramides 2
+1105 Marchezais - Broué 2
+1106 Nangis 2
+1107 Vigneux-sur-Seine 3
+1108 Maurice Cayen
+1109 Eglise 3
+1110 Monument aux morts
+1111 Gare de Garancières la Queue
+1112 Bibliothèque François Mitterrand 4
+1113 Les Tilleuls 2
+1114 Stains la Cerisaie 2
+1115 Paris Est 4
+1116 Savigny-sur-Orge RER
+1117 Terroirs de France 2
+1118 Gare de Rambouillet
+1119 Ozoir-la-Ferrière Armainvilliers 2
+1120 Paul Painlevé / Place Gounot 2
+1121 Juvisy RER
+1122 Piscine des Sénarts / Le stade
+1123 Grâce de Dieu 2
+1124 Aristide Briand / Ozoir-la-Ferrière
+1125 Gare de Couilly St Germain Quincy 2
+1126 La Plaine Stade de France - Saint-Denis - Aubervilliers
+1127 Léon Blum 3
+1128 Les Coquetiers 3
+1129 Gare SNCF 6
+1130 Coignières 3
+1131 Brétigny 3
+1132 Neuilly-Plaisance RER
+1133 Les Pavillons-sous-Bois 3
+1134 Piscine des Sénarts / Le stade 2
+1135 Mairie 7
+1136 Ville Évrard 2
+1137 Gare de Saint-Cloud
+1138 Noisiel 2
+1139 Patte d'Oie
+1140 Viry-Châtillon 3
+1141 Champbenoist Poigny 4
+1142 Collège du Segrais 2
+1143 Maurice Audin 3
+1144 Les Pavillons-sous-Bois 4
+1145 Avenue du Général Leclerc 2
+1146 Georges Demésy
+1147 Eglise 4
+1148 Moret - Veneux-les-Sablons 2
+1149 Gare de l'Est 4
+1150 Gare de Saint-Cloud 2
+1151 Mairie 8
+1152 Les Essarts-le-Roi 2
+1153 Gare de Bagneaux-sur-Loing
+1154 Marcel Sembat
+1155 Ambroise Croizat
+1156 Rosny Bois Perrier 4
+1157 Aristide Briand / Ozoir-la-Ferrière 2
+1158 La Plaine
+1159 Friedberg 2
+1160 Meaux 3
+1161 Daumesnil 2
+1162 République P.V. Couturier / Trappes
+1163 Gare de Bellevue
+1164 Blazy 2
+1165 Tarterêts 2
+1166 Le Bourget 3
+1167 Mormant 2
+1168 Patte d'Oie 2
+1169 Montfort-l'Amaury - Méré 2
+1170 Dordives 3
+1171 Épinay-sur-Seine 3
+1172 Pasteur 2
+1173 La Plaine 2
+1174 Villiers - Neauphle - Pontchartrain 2
+1175 Esbly / Place de l'Europe
+1176 Villeneuve Triage / Hector Berlioz
+1177 Les Coquetiers 4
+1178 République - Marx Dormoy 3
+1179 Rougemont Chanteloup 4
+1180 Crécy-la-Chapelle 2
+1181 Gare d'Austerlitz - Cour Seine
+1182 Clichy - Montfermeil 3
+1183 Gare du Bras de Fer Evry Génopole 2
+1184 Balard 2
+1185 Héricy 2
+1186 Cabane Noire / Montévrain 2
+1187 Beauséjour
+1188 Nogent - Le Perreux 3
+1189 Jean-Pierre Timbaud 2
+1190 Lizy-sur-Ourcq 2
+1191 Juvisy Pyramide
+1192 Beauséjour 2
+1193 Lagny - Thorigny 2
+1194 Place d'Italie - Mairie du 13e 2
+1195 Les Essarts-le-Roi 3
+1196 Remise à Jorelle 3
+1197 Gare de Montereau Quai 9
+1198 Villeneuve Prairie / Pompadour 2
+1199 Eglise / Collégien
+1200 Fourchette de Bry 2
+1201 Romain Rolland 3
+1202 République 2
+1203 La Ferté-sous-Jouarre 2
+1204 Saint-Mammès 2
+1205 Gare d'Ablon
+1206 Noisiel 3
+1207 Eglise / Collégien 2
+1208 Aulnay-sous-Bois 7
+1209 Mortcerf 2
+1210 Remise à Jorelle 4
+1211 Villetaneuse Université 2
+1212 Pierre Sémard - Paul Vaillant Couturier 2
+1213 Hôpital de Montfermeil 2
+1214 Porte de Paris - Stade de France 2
+1215 Parc des expositions
+1216 Ambroise Croizat 2
+1217 Champigny-sur-Yonne
+1218 Châteaudun
+1219 Chartres
+1220 Guillerval
+1221 Pont-sur-Yonne
+1222 Bonneval
+1223 Villeneuve-sur-Yonne
+1224 Angerville
+1225 Villeneuve-la-Guyard
+1226 Auneau
+1227 Paris-Bercy Bourgogne - Pays d'Auvergne
+1228 Sens
+1229 Laroche - Migennes
+1230 Voves
+1231 Joigny
+1232 Monnerville
+1233 Saint-Julien du Sault
+1234 Maintenon
+1235 Étigny - Véron
+1236 Sartrouville / Stalingrad
+1237 Moret - Veneux-les-Sablons 3
+1238 Franconville - Le Plessis-Bouchard 2
+1239 Maintenon 2
+1240 Gare de Sannois
+1241 Maison Bleue
+1242 Les Grésillons 2
+1243 Europe / Courbevoie-Bécon
+1244 Cygne d'Enghien - Joffre
+1245 Dourdan 3
+1246 Gilbert Bonnemaison
+1247 Porte d'Asnières - Marguerite Long
+1248 Joigny 2
+1249 Grand-Cerf
+1250 Gare d'Ermont-Eaubonne
+1251 Sartrouville / Stalingrad 2
+1252 Grand Cerf
+1253 La Villette Saint-Prest
+1254 Champigny-sur-Yonne 2
+1255 Saint-Quentin en Yvelines - Montigny-le-Bretonneux 2
+1256 Gilbert Bonnemaison 2
+1257 Gare de Sannois 2
+1258 Saint-Gratien 2
+1259 La Villette Saint-Prest 2
+1260 Étigny - Véron 2
+1261 Gazeran
+1262 Joigny 3
+1263 Rambouillet 2
+1264 Jouy
+1265 Saint-Piat
+1266 Villeneuve-sur-Yonne 2
+1267 Chartres 2
+1268 Saint-Julien du Sault 2
+1269 Saint-Mammès 3
+1270 Verdun / Conflans Sainte-Honorine Noctilien
+1271 Fontainebleau - Avon 3
+1272 Villeneuve-sur-Yonne 3
+1273 Villeneuve-la-Guyard 2
+1274 Jouy 2
+1275 Pont Rive Droite / Conflans Fin d'Oise
+1276 Porte d'Asnières - Marguerite Long 2
+1277 Champagne-sur-Seine 2
+1278 Villeneuve-la-Guyard 3
+1279 Bois-le-Roi 2
+1280 Les Blanches / Houilles
+1281 Versailles Chantiers 7
+1282 Guillerval 2
+1283 Melun 4
+1284 Étampes 2
+1285 Étigny - Véron 3
+1286 Les Blanches / Houilles 2
+1287 Chartres 3
+1288 Les Grésillons 3
+1289 Melun 5
+1290 Saint-Mammès 4
+1291 Europe / Courbevoie-Bécon 2
+1292 Moret - Veneux-les-Sablons 4
+1293 Champagne-sur-Seine 3
+1294 Laroche - Migennes 2
+1295 Pont-sur-Yonne 2
+1296 Épernon
+1297 Grésillons - Félix Eboué
+1298 Étampes 3
+1299 Achères Grand Cormier 2
+1300 Victor Hugo - Jean Jaurès
+1301 Conseil Départemental / Conseil Général
+1302 Rambouillet 3
+1303 Victor Hugo - Jean Jaurès 2
+1304 Monnerville 2
+1305 Bois-le-Roi 3
+1306 Maison Bleue 2
+1307 Rue de la Station 2
+1308 Melun 6
+1309 Pereire
+1310 Grésillons - Félix Eboué 2
+1311 Angerville 2
+1312 Conseil Départemental / Conseil Général 2
+1313 Conflans Sainte-Honorine
+1314 Cygne d'Enghien - Joffre 2
+1315 Étampes 4
+1316 Éragny Gare SNCF
+1317 Saint-Piat 2
+1318 Gazeran 2
+1319 Champigny-sur-Yonne 3
+1320 Saint Gratien
+1321 Pont Cardinet 3
+1322 Pont-sur-Yonne 3
+1323 Maintenon 3
+1324 Épernon 2
+1325 La Garenne-Colombes 3
+1326 Dourdan 4
+1327 Pereire - Villiers
+1328 Fontainebleau - Avon 4
+1329 Rambouillet 4
+1330 Laroche - Migennes 3
+1331 Saint-Julien du Sault 3
+1332 Combs-la-Ville - Quincy 3
+1333 Saint-Leu-la-Forêt 2
+1334 Fontainebleau - Avon 5
+1335 Bruyères-sur-Oise 2
+1336 Saint-Ouen-l'Aumône 2
+1337 Gisors 2
+1338 Pont de Rungis Aéroport d'Orly 3
+1339 Nogent - Le Perreux 4
+1340 Le Vésinet - Le Pecq 2
+1341 Thomery 3
+1342 Chilly-Mazarin 2
+1343 Massy - Palaiseau 2
+1344 Frépillon 2
+1345 Versailles Château Rive Gauche 3
+1346 Chanteloup-les-Vignes 3
+1347 Thun le Paradis 3
+1348 Les Grésillons 4
+1349 Ablon 3
+1350 Savigny-sur-Orge 3
+1351 Champ de Mars Tour Eiffel 2
+1352 Fontaine Michalon 2
+1353 Asnières-sur-Seine 2
+1354 Gare du Nord 5
+1355 Gare d'Austerlitz 2
+1356 Boissise-le-Roi 4
+1357 Vincennes 2
+1358 Seugy 2
+1359 Parc des Expositions 2
+1360 Enghien-les-Bains 2
+1361 Boulevard d'Achères
+1362 Boran-sur-Oise 2
+1363 Chamarande 2
+1364 Montereau 2
+1365 Courcelle-sur-Yvette 2
+1366 Brétigny 4
+1367 Ivry-sur-Seine 2
+1368 Maisse 2
+1369 Taverny 2
+1370 Vitry-sur-Seine 2
+1371 Moulin Galant 4
+1372 Le Blanc-Mesnil 2
+1373 Lognes 2
+1374 Breuillet Village 3
+1375 Franconville - Le Plessis-Bouchard 3
+1376 Fernand Léger / Vosves
+1377 Viry-Châtillon 4
+1378 Noisiel 4
+1379 Issy 2
+1380 Us 2
+1381 Saint-Ouen 2
+1382 La Borne Blanche 3
+1383 Tournan 2
+1384 Clichy - Levallois 2
+1385 Châtou - Croissy 2
+1386 Juziers 2
+1387 Palaiseau 2
+1388 Bourg-la-Reine 2
+1389 Vosves 4
+1390 Villeneuve Triage 5
+1391 Musée d'Orsay 2
+1392 Trie-Château 2
+1393 Porte de Clichy 2
+1394 Deuil - Montmagny 2
+1395 Bois-Colombes 2
+1396 Thieux - Nantouillet 3
+1397 Arpajon 3
+1398 Conflans Sainte-Honorine 2
+1399 Cesson 3
+1400 Valmondois 2
+1401 Sucy - Bonneuil 2
+1402 Torcy 2
+1403 Pontoise 2
+1404 Gentilly 2
+1405 Place Robespierre 3
+1406 Sevran - Livry 2
+1407 La Frette - Montigny 3
+1408 Bondy 5
+1409 Houilles - Carrières-sur-Seine 3
+1410 Gare Saint-Lazare 4
+1411 Péreire Levallois 2
+1412 Gare de Lyon 2
+1413 Boissy-l'Aillerie 2
+1414 Les Mureaux 2
+1415 Ris-Orangis 3
+1416 Aéroport CDG - Terminal 2 (TGV)
+1417 Antony 2
+1418 Avenue Foch 2
+1419 Orly 4 2
+1420 Mairie / Les Noues 3
+1421 Goussainville 3
+1422 Melun 7
+1423 Arcueil - Cachan 2
+1424 Chemin d'Antony 2
+1425 L'Isle-Adam - Parmain 2
+1426 Pont Petit 2
+1427 Les Noues 2
+1428 Meudon Val Fleury 2
+1429 La Défense 3
+1430 La Barre Ormesson 2
+1431 Moret - Veneux-les-Sablons 5
+1432 Bécon les Bruyères 2
+1433 Gargenville 3
+1434 Survilliers - Fosses 3
+1435 Place du Vexin 3
+1436 Champigny 2
+1437 La Croix de Berny Fresnes 2
+1438 Parc de Sceaux 2
+1439 Saint-Germain-en-Laye 2
+1440 Sceaux 2
+1441 Les Boullereaux Champigny 2
+1442 Méry-sur-Oise 2
+1443 Viroflay Rive Gauche 2
+1444 Herblay 3
+1445 Avenue Henri Martin 2
+1446 Villiers-le-Bel - Gonesse - Arnouville 3
+1447 Saint-Michel-sur-Orge 2
+1448 Aubergenville Élisabethville 3
+1449 Le Bourget 4
+1450 Villaines 2
+1451 Chaumont-en-Vexin 2
+1452 Choisy-le-Roi 2
+1453 Groslay 2
+1454 Le Coudray-Montceaux 4
+1455 Rosny-sur-Seine 2
+1456 Montigny - Beauchamp 2
+1457 Colombes 2
+1458 Hôpital Européen Georges Pompidou
+1459 Pierrefitte - Stains 4
+1460 Andrésy 5
+1461 Val d'Argenteuil 3
+1462 Triel-sur-Seine 2
+1463 Ermont Halte 2
+1464 Champs Elysées - Grand Bourg 3
+1465 Gretz-Armainvilliers 3
+1466 Le Vésinet Centre 2
+1467 Longjumeau 3
+1468 Luxembourg 2
+1469 Argenteuil 2
+1470 Saint-Quentin en Yvelines - Montigny-le-Bretonneux 3
+1471 Saint-Ouen-l'Aumône Liesse 2
+1472 Porte Maillot
+1473 Dammartin - Juilly - Saint-Mard 2
+1474 Ormoy-Villers 3
+1475 Fontenay-sous-Bois 2
+1476 Vigneux-sur-Seine 4
+1477 Bouray 3
+1478 Le Plessis-Belleville 3
+1479 Compans 3
+1480 Foch Pasteur / Maurecourt 2
+1481 Mitry - Claye 3
+1482 Orly Ville 3
+1483 Sevran Beaudottes 3
+1484 Savigny-le-Temple - Nandy 3
+1485 Marne-la-Vallée Chessy 2
+1486 Invalides 2
+1487 Santeuil - Le Perchay 2
+1488 Fontenay-aux-Roses 2
+1489 Persan - Beaumont 2
+1490 Pantin 2
+1491 Épluches
+1492 Vernouillet - Verneuil 2
+1493 Cormeilles-en-Parisis 2
+1494 Le Chénay Gagny 2
+1495 Orangis Bois de l'Épine 3
+1496 Sablons
+1497 Grand Bourg 2
+1498 Petit Vaux 3
+1499 Farcy 3
+1500 Saint-Chéron 3
+1501 Nointel - Mours 2
+1502 Rosa Parks 4
+1503 Les Baconnets 2
+1504 Massy - Verrières 2
+1505 Saint-Fargeau 3
+1506 Sarcelles - Saint-Brice 2
+1507 Étampes 5
+1508 La Norville - Saint-Germain-lès-Arpajon 3
+1509 Saint-Maur-des-Fossés - Créteil 2
+1510 Bagneux 2
+1511 Villeneuve-Saint-Georges 4
+1512 Val de Fontenay 2
+1513 Lozère 2
+1514 Jean Jaurès 6
+1515 La Courneuve - Aubervilliers 3
+1516 Pont Cardinet 4
+1517 Mairie / Manoir / Rue du Hameau
+1518 Belloy - Saint-Martin 2
+1519 Drancy 2
+1520 Domont 2
+1521 Auber 2
+1522 Nanterre Université 3
+1523 Épinay-sur-Orge 4
+1524 Aulnay-sous-Bois 8
+1525 Achères Ville 3
+1526 Bessancourt 2
+1527 Gennevilliers 2
+1528 Maurecourt 2
+1529 La Garenne-Colombes 4
+1530 Noisy-le-Sec 3
+1531 Créteil Pompadour 3
+1532 Javel 3
+1533 Sainte-Geneviève-des-Bois 3
+1534 Rue de l'Aigle
+1535 Chars 2
+1536 Dourdan 5
+1537 Boigneville 3
+1538 La Ferté-Alais 2
+1539 Place Beilstein
+1540 Viarmes 2
+1541 Étréchy 2
+1542 Saint-Leu-d'Esserent 2
+1543 Joinville-le-Pont 2
+1544 Mairie / Poste
+1545 Petit Jouy Les Loges 2
+1546 Garges - Sarcelles 2
+1547 Ermont - Eaubonne 2
+1548 Sartrouville 3
+1549 Osny 2
+1550 Le Mée 4
+1551 La Hacquinière 2
+1552 Mennecy 3
+1553 Chantilly - Gouvieux 3
+1554 Bibliothèque François Mitterrand 5
+1555 Champ de Courses d'Enghien 2
+1556 Sermaise 2
+1557 Noisy-le-Grand - Mont d'Est 2
+1558 Gravigny Balizy 3
+1559 Bouffémont - Moisselles 2
+1560 Saint-Gratien 3
+1561 Nogent-sur-Marne 2
+1562 Cergy Préfecture 2
+1563 Saint-Rémy-lès-Chevreuse 2
+1564 Rosny-sous-Bois 3
+1565 Marolles-en-Hurepoix 3
+1566 Robinson 2
+1567 Gagny 2
+1568 Saint-Martin d'Étampes 3
+1569 Montgeroult - Courcelles 2
+1570 Villiers-sur-Marne - Le Plessis-Trévise 2
+1571 Nanterre Préfecture 2
+1572 Le Vert de Maisons 4
+1573 Montsoult - Maffliers 2
+1574 Saint-Mammès 5
+1575 Mantes Station 2
+1576 Rungis la Fraternelle 2
+1577 Gabrielle d'Estrées / Rue du Puits
+1578 Saint-Ouen-l'Aumône Quartier de l'Église 3
+1579 Val d'Europe 3
+1580 Champagne-sur-Oise 2
+1581 Juvisy 3
+1582 Chaville - Vélizy 3
+1583 Égly 3
+1584 Ballancourt 2
+1585 Émerainville - Pontault-Combault 2
+1586 Vigne Blanche 2
+1587 Vernon - Giverny 2
+1588 Dourdan la Forêt 2
+1589 Neuville Université 2
+1590 Breuillet - Bruyères-le-Châtel 3
+1591 Bry-sur-Marne 2
+1592 Laplace 2
+1593 Bièvres 2
+1594 Boissy-Saint-Léger 2
+1595 Porchefontaine 3
+1596 Brunoy 3
+1597 Gif-Sur-Yvette
+1598 Éragny - Neuville 3
+1599 Poissy 3
+1600 Conflans Fin d'Oise 3
+1601 Sannois 2
+1602 Aéroport CDG 1 (Terminal 3)
+1603 Les Saules 3
+1604 Ozoir-la-Ferrière 3
+1605 Cernay 2
+1606 Jouy-en-Josas 3
+1607 Nanterre Ville 2
+1608 Denfert-Rochereau 2
+1609 Creil 3
+1610 Mériel 2
+1611 Le Guichet 2
+1612 Montgeron - Crosne 3
+1613 Neuilly-Plaisance 2
+1614 Luzarches 2
+1615 Issou - Porcheville 3
+1616 Vaucelles 2
+1617 Gros Noyer Saint-Prix 2
+1618 Corbeil-Essonnes 4
+1619 Le Bras de Fer 3
+1620 Les Clairières de Verneuil 2
+1621 Rueil-Malmaison 2
+1622 Grigny Centre 3
+1623 Gare de l'Est 5
+1624 Épinay - Villetaneuse 4
+1625 Limay 2
+1626 Athis-Mons 3
+1627 Vauboyen 2
+1628 Villeneuve-le-Roi 2
+1629 Liancourt-Saint-Pierre 2
+1630 Cité Universitaire 2
+1631 Épinay-sur-Seine 4
+1632 Stade / La justice 3
+1633 Orsay Ville 2
+1634 Jean Jaurès 7
+1635 Division Leclerc 2
+1636 Saint-Cyr 2
+1637 Maisons-Alfort - Alfortville 4
+1638 Nanteuil-le-Haudouin 3
+1639 Stade de France Saint-Denis 3
+1640 Meulan - Hardricourt 2
+1641 Orry-la-Ville - Coye 3
+1642 Le Parc de Saint-Maur 2
+1643 Cergy le Haut 2
+1644 Auvers-sur-Oise 2
+1645 Louvres 3
+1646 Maisons-Laffitte 2
+1647 Noisy - Champs 3
+1648 Vaux-sur-Seine 3
+1649 Roissy-en-Brie 2
+1650 Charles de Gaulle - Etoile 2
+1651 Bonnières 2
+1652 Essonnes Robinson 2
+1653 Saint-Michel Notre-Dame 2
+1654 Marcel Cachin - Voie des Saules
+1655 Port Royal 2
+1656 Conservatoire / Essonnes Robinson 3
+1657 Salvador Allende / Pre Barallon
+1658 Évry - Val de Seine 2
+1659 Boussy-Saint-Antoine 2
+1660 Presles - Courcelles 2
+1661 Haussmann Saint-Lazare 2
+1662 Précy-sur-Oise 2
+1663 Lieusaint - Moissy 2
+1664 Versailles Chantiers 8
+1665 Magenta 2
+1666 Balzac 2
+1667 Arquebuse / Poste
+1668 La Varenne - Chennevières 2
+1669 Le Raincy - Villemomble - Montfermeil 2
+1670 Yerres 4
+1671 Villepinte 3
+1672 Chaponval 2
+1673 Lavilletertre 2
+1674 La Mare 2
+1675 Bures-sur-Yvette 2
+1676 Buno - Gironville 2
+1677 Villeparisis - Mitry-le-Neuf 3
+1678 Saint-Denis 4
+1679 Pont de l'Alma 2
+1680 Nation 2
+1681 Bussy-Saint-Georges 2
+1682 Ponthierry - Pringy 4
+1683 Les Yvris Noisy-le-Grand 3
+1684 Le Plessis Chenet 2
+1685 Crépy-en-Valois 2
+1686 Épône - Mézières 2
+1687 Chelles - Gournay 2
+1688 Lardy 3
+1689 Boutigny 3
+1690 Les Ardoines 4
+1691 Malesherbes 3
+1692 Pont du Garigliano - Hôpital Européen G. Pompidou 4
+1693 Mantes-la-Jolie 2
+1694 Cergy Saint-Christophe 2
+1695 Bois-le-Roi 4
+1696 La Plaine Stade de France 2
+1697 Châtelet les Halles 2
+1698 Évry - Courcouronnes 3
+1699 Vaux-sur-Seine 4
+1700 Igny 2
+1701 Issy Val de Seine 3
+1702 Villennes-sur-Seine 2
+1703 Rosny Bois Perrier 5
+1704 Pierrelaye 2
+1705 Le Stade 3
+1706 Palaiseau - Villebon 2
+1707 Rue de l'Industrie / Place de l'Ermitage
+1708 Boulainvilliers 2
+1709 Achères Grand Cormier 3
+1710 Villabé 4
+1711 Vert Galant 3
+1712 Avenue du Président Kennedy Maison de Radio France 2
+1713 Gabriel Péri / Les Arcades
+1714 Écouen - Ézanville 2
+1715 Saint-Germain-en-Laye Grande Ceinture 2
+1716 L'Étang-la-Ville 2
+1717 Puteaux 3
+1718 Suresnes Mont Valérien 2
+1719 Montreuil 2
+1720 Garches - Marnes-la-Coquette 2
+1721 Noisy-le-Roi
+1722 Courbevoie 2
+1723 Saint-Nom-la-Bretèche Forêt de Marly 3
+1724 Louveciennes 2
+1725 Bougival 2
+1726 Les Vallées 3
+1727 Le Val d'Or 2
+1728 Versailles Rive Droite 2
+1729 Chaville Rive Droite 2
+1730 Saint-Germain-en-Laye Bel-Air - Fourqueux
+1731 Couture / Mareil-Marly / Lavoir
+1732 Vaucresson 2
+1733 Saint-Cloud 2
+1734 Viroflay Rive Droite 2
+1735 La Celle-Saint-Cloud 2
+1736 Marly-le-Roi 2
+1737 Sèvres - Ville-d'Avray 2
+1738 Grâce de Dieu 3
+1739 Changis - Saint-Jean 3
+1740 Butte Montceleux / Luther King
+1741 Faremoutiers - Pommeuse 2
+1742 Porte d'Italie 3
+1743 Verneuil -l'Étang
+1744 Le Perray 4
+1745 Pyramide de Juvisy 2
+1746 Eglise / Marché
+1747 Sainte-Colombe Septveilles 4
+1748 Pot d'Etain
+1749 Lycée Henri Sellier 5
+1750 Vernou-sur-Seine 3
+1751 Daumesnil 3
+1752 Saint-Denis - Porte de Paris
+1753 Villetaneuse Université 3
+1754 Pyramide
+1755 Lizy-sur-Ourcq 3
+1756 Gare de Sevres - Rive Gauche 2
+1757 Rambouillet 5
+1758 Mairie / Place de l'Europe
+1759 Hôpital Jean Rostand 3
+1760 Les Pyramides 3
+1761 Edouard Branly / Pierre Edouard 3
+1762 Rouget de Lisle
+1763 Guérard - La Celle-sur-Morin 2
+1764 Eglise / Collégien 3
+1765 Villiers Montbarbin 3
+1766 L'Abbaye 5
+1767 Chessy / Mairie 3
+1768 Porte de Bagnolet 3
+1769 République 3
+1770 Gare de Chailly Boissy le Chatel
+1771 Montfort-l'Amaury - Méré 3
+1772 Fontaine-le-Port 2
+1773 Souppes - Château-Landon 3
+1774 Robert Schuman 3
+1775 Vanves - Malakoff 3
+1776 Escadrille Normandie - Niémen
+1777 Aéroport CDG - Terminal 1
+1778 Ville Évrard 3
+1779 Clichy-sous-Bois - Mairie 4
+1780 Plaisir - Les Clayes 2
+1781 Nanteuil - Saâcy 3
+1782 Bagneaux-sur-Loing 2
+1783 Jean-Pierre Timbaud 3
+1784 Terroirs de France 3
+1785 Blazy 3
+1786 Nézel - Aulnay 3
+1787 Eustache Lenoir 3
+1788 Yves Farge 2
+1789 Aéroport CDG - Terminal 2E-2F
+1790 Marchezais - Broué 3
+1791 Maule 3
+1792 Les Tilleuls 3
+1793 Trilport 2
+1794 Léon Blum 4
+1795 Le Clos Montceleux 3
+1796 La Ferté-sous-Jouarre 3
+1797 Couilly - Saint-Germain - Quincy 2
+1798 Bellevue 3
+1799 Pasteur 3
+1800 Chézy-sur-Marne 3
+1801 Patte d'Oie 3
+1802 Piscine des Sénarts / Le stade 3
+1803 Marcel Sembat 2
+1804 Orgerus - Béhoust 3
+1805 Romain Rolland 4
+1806 Ambroise Croizat 3
+1807 Montry - Condé 2
+1808 Livry-sur-Seine 3
+1809 Orly 1-2-3 2
+1810 Cargo Centre 3
+1811 Parc / Saint Fiacre
+1812 Villeneuve Prairie / Pompadour 3
+1813 Pont Perronet / Rond Point Wittlich
+1814 Arboretum 4
+1815 Ferrières - Fontenay 2
+1816 Esbly 3
+1817 Avenue de Gaumont 2
+1818 Montigny-sur-Loing 3
+1819 Tacoignières - Richebourg 3
+1820 Coulommiers 4
+1821 Espace V 3
+1822 Mareuil-sur-Ourcq 3
+1823 La Ferté Gaucher Centre / La Halle / Rue d'Orient
+1824 Collège Jean Monnet 3
+1825 Vulaines-sur-Seine - Samoreau 3
+1826 Dugny - La Courneuve 3
+1827 Monument aux Morts
+1828 Fourchette de Bry 3
+1829 Campus Sainte Thérèse / Ferme Pereire
+1830 Plaisir - Grignon 2
+1831 Montargis 3
+1832 Lagny Thorigny / Foch Paix Notre Dame
+1833 Villeneuve Triage / Hector Berlioz 2
+1834 La Verrière 3
+1835 Verdun
+1836 Villiers - Neauphle - Pontchartrain 3
+1837 Eglise 5
+1838 Marguilliers 3
+1839 Groupe Scolaire Pasteur 3
+1840 Charles de Gaulle / Mairie
+1841 Héricy 3
+1842 Les Matelots 2
+1843 Orly - Gaston Viens
+1844 Mouroux 3
+1845 Cours des Lacs 3
+1846 L'Etoile
+1847 Sèvres Rive Gauche 2
+1848 Saint-Siméon 2
+1849 Nangis 3
+1850 République - Marx Dormoy 4
+1851 Mairie d'Ivry
+1852 Lycée Robert Doisneau / Tarterêts
+1853 Houdan 3
+1854 Champgoulin 3
+1855 Mormant 3
+1856 Georges Demésy 2
+1857 Chaville Rive Gauche 2
+1858 Fontenay-le-Fleury 2
+1859 République - La Poste / Ecole Militaire
+1860 Longueville 2
+1861 Place d'Italie
+1862 Gargan 6
+1863 Balard 3
+1864 Beynes 2
+1865 La Grande-Paroisse 3
+1866 Porte de la Chapelle 3
+1867 Aristide Briand - Général De Gaulle / Beauséjour
+1868 Place du 19 Mars 1962
+1869 Maryse Bastié
+1870 Allée de la Tour-Rendez-vous 5
+1871 André Malraux / Lavoisier
+1872 Mareil-sur-Mauldre 2
+1873 Pyramides / Lycée des Loges 3
+1874 Friedberg 3
+1875 Thomery 4
+1876 Clamart 3
+1877 Les Coquetiers 5
+1878 La Plaine 3
+1879 Champbenoist Poigny 5
+1880 Ministère de l'Economie et des Finances - POPB
+1881 Notre-Dame des Anges
+1882 Collège du Segrais 3
+1883 Cabane Noire / Bonne Auberge
+1884 Pierre Sémard - Paul Vaillant Couturier 3
+1885 Villepreux - Les Clayes 3
+1886 Paul Painlevé / Place Gounot 3
+1887 La Passerelle 3
+1888 Les Essarts-le-Roi 4
+1889 Parc du Tremblay 3
+1890 Garancières - La Queue 2
+1891 Foyer des Bruyères 3
+1892 Rue des Vignes 3
+1893 Jean Jaurès 8
+1894 Trappes 3
+1895 Stains la Cerisaie 3
+1896 Gare Montparnasse 5
+1897 Aristide Briand 3
+1898 République Paul Vaillant Couturier
+1899 Dreux 3
+1900 Hôpital de Montfermeil 3
+1901 Quai de la Gare 3
+1902 Sèvres Rive Gauche / Mairie 3
+1903 Mairie 9
+1904 Aristide Briand / Ozoir-la-Ferrière 3
+1905 La Ferté-Milon 2
+1906 Porte de Versailles 2
+1907 Capitaine Deplanque
+1908 Vaires - Torcy 2
+1909 La Petite Villedieu 3
+1910 Freinville Sevran 3
+1911 Lagny - Thorigny 3
+1912 Dordives 4
+1913 Provins 4
+1914 Moulin du Pont
+1915 Marles-en-Brie 2
+1916 La Ferté-Gaucher 2
+1917 Rougemont Chanteloup 5
+1918 Maurice Audin 4
+1919 Atrium 3
+1920 Isles - Armentières - Congis 3
+1921 Nemours Saint-Pierre
+1922 Mortcerf 3
+1923 Porte de la Villette 2
+1924 Clichy - Montfermeil 4
+1925 Bourron-Marlotte - Grez 2
+1926 Champagne-sur-Seine 4
+1927 Crécy-la-Chapelle 3
+1928 Chartrettes 2
+1929 Puits Sans Vin / Mairie
+1930 Crouy-sur-Ourcq 2
+1931 La remise à Jorelle
+1932 Meaux 4
+1933 Paul Langevin 3
+1934 Franche-Comté Bourgogne 3
+1935 Coignières 4
+1936 Avenue du Général Leclerc / Joncs
+1937 Les Pavillons-sous-Bois 5
+1938 Nogent-L'Artaud - Charly 3
+1939 Château-Thierry 3
+1940 Meudon 3
+1941 Maurice Cayen 2
+1942 Châteaudun 2
+1943 Europe / Courbevoie-Bécon 3
+1944 Champigny-sur-Yonne 4
+1945 Étigny - Véron 4
+1946 Laroche - Migennes 4
+1947 Chartres 4
+1948 Voves 2
+1949 Verdun / Conflans Sainte-Honorine Noctilien 2
+1950 Conseil Départemental / Conseil Général 3
+1951 Maintenon 4
+1952 Gazeran 3
+1953 Porte d'Asnières - Marguerite Long 3
+1954 Pont Rive Droite / Conflans Fin d'Oise 2
+1955 Emile Zola / Grand Cerf
+1956 Villeneuve-sur-Yonne 4
+1957 Saint-Piat 3
+1958 Angerville 3
+1959 Pont-sur-Yonne 4
+1960 La Villette Saint-Prest 3
+1961 Villeneuve-la-Guyard 4
+1962 Guillerval 3
+1963 Saint-Gratien (Bd Pasteur) / Berthie Albrecht
+1964 Bonneval 2
+1965 Sens 2
+1966 Gilbert Bonnemaison 3
+1967 Bercy
+1968 Grésillons - Laurent Cély
+1969 Jouy 3
+1970 Épernon 3
+1971 Stalingrad
+1972 Maison Bleue / Chemin Neuf
+1973 Auneau 2
+1974 Les Blanches / Houilles 3
+1975 Saint-Julien du Sault 4
+1976 Cygne d'Enghien / Dunkerque
+1977 Monnerville 3
+1978 Joigny 4
+[Edges]
+107 77 330.0
+107 2 210.0
+107 266 80.0
+107 249 510.0
+107 431 200.0
+266 198 190.0
+266 107 180.0
+266 150 170.0
+266 992 245.0
+198 148 190.0
+198 266 250.0
+198 907 212.0
+198 971 228.0
+148 261 210.0
+148 198 200.0
+148 854 275.0
+261 148 220.0
+261 131 240.0
+261 873 207.0
+131 261 220.0
+131 20 160.0
+131 1238 267.0
+20 164 150.0
+20 131 160.0
+164 69 180.0
+164 264 270.0
+164 336 190.0
+164 318 240.0
+164 20 170.0
+164 275 110.0
+164 1250 205.0
+318 164 220.0
+318 36 160.0
+318 1258 369.0
+36 335 190.0
+36 318 160.0
+36 1171 233.0
+36 1055 226.0
+335 36 170.0
+335 295 150.0
+295 80 210.0
+295 335 140.0
+295 1288 204.0
+295 1242 186.0
+80 342 210.0
+80 295 230.0
+342 80 180.0
+342 56 190.0
+56 141 170.0
+56 342 190.0
+56 1327 419.0
+56 1309 428.0
+141 245 200.0
+141 56 180.0
+245 313 110.0
+245 141 170.0
+313 282 140.0
+313 245 100.0
+282 313 140.0
+282 241 110.0
+241 282 120.0
+241 195 170.0
+195 307 180.0
+195 12 140.0
+195 241 140.0
+12 195 130.0
+12 267 140.0
+267 12 140.0
+267 204 100.0
+204 13 150.0
+204 267 140.0
+13 105 240.0
+13 50 132.0
+13 204 200.0
+13 208 121.0
+105 1226 3720.0
+105 1315 1860.0
+105 1245 2730.0
+105 13 250.0
+105 1298 1890.0
+105 171 140.0
+105 596 360.0
+105 1181 396.0
+171 347 310.0
+171 95 390.0
+171 163 230.0
+171 105 220.0
+171 54 790.0
+171 491 427.0
+171 875 494.0
+171 388 444.0
+171 1112 489.0
+163 347 200.0
+163 171 220.0
+163 95 320.0
+163 568 327.0
+163 535 353.0
+347 153 190.0
+347 171 290.0
+347 95 240.0
+347 163 160.0
+347 393 323.0
+347 522 345.0
+153 347 170.0
+153 95 210.0
+153 411 293.0
+153 407 315.0
+95 308 210.0
+95 347 270.0
+95 163 340.0
+95 144 230.0
+95 153 190.0
+95 171 440.0
+95 54 540.0
+95 500 227.0
+308 253 160.0
+308 95 230.0
+253 308 180.0
+253 26 220.0
+253 797 207.0
+253 550 257.0
+253 758 210.0
+26 247 170.0
+26 253 240.0
+26 397 183.0
+247 26 170.0
+247 130 220.0
+130 247 230.0
+130 214 230.0
+214 101 156.0
+214 1 113.0
+214 130 220.0
+311 162 330.0
+311 5 660.0
+311 14 1920.0
+311 208 240.0
+311 89 330.0
+311 93 520.0
+311 75 690.0
+311 78 320.0
+311 262 1650.0
+311 138 240.0
+311 771 270.0
+311 354 285.0
+311 789 256.0
+311 809 411.0
+311 760 299.0
+208 229 196.0
+208 37 164.0
+208 13 129.0
+208 311 211.0
+50 124 95.0
+50 13 134.0
+124 212 108.0
+124 50 93.0
+212 124 129.0
+212 221 158.0
+221 212 142.0
+221 132 172.0
+221 188 320.0
+221 210 97.0
+210 132 106.0
+210 221 95.0
+210 147 193.0
+132 210 108.0
+132 147 118.0
+132 177 203.0
+132 188 268.0
+132 221 146.0
+147 132 121.0
+147 177 98.0
+147 188 237.0
+147 210 185.0
+177 132 167.0
+177 188 143.0
+177 147 102.0
+188 116 202.0
+188 299 117.0
+188 147 194.0
+188 10 180.0
+188 301 112.0
+188 177 162.0
+188 132 261.0
+188 221 346.0
+299 10 99.0
+299 188 109.0
+10 299 100.0
+10 188 156.0
+10 116 100.0
+116 1 180.0
+116 10 111.0
+116 101 300.0
+116 274 125.0
+116 188 206.0
+274 1 84.0
+274 116 116.0
+1 101 186.0
+1 214 104.0
+1 116 158.0
+1 274 91.0
+14 5 590.0
+14 278 200.0
+14 306 460.0
+14 311 1860.0
+14 333 210.0
+14 78 1500.0
+14 545 194.0
+333 14 250.0
+333 187 180.0
+333 1100 210.0
+187 349 160.0
+187 333 190.0
+187 751 336.0
+187 926 236.0
+349 5 230.0
+349 187 180.0
+349 785 191.0
+5 14 600.0
+5 223 150.0
+5 284 210.0
+5 311 780.0
+5 349 230.0
+5 1208 212.0
+5 791 252.0
+5 1099 191.0
+5 1093 242.0
+5 792 193.0
+5 759 187.0
+223 47 130.0
+223 5 140.0
+223 738 213.0
+223 773 222.0
+47 321 160.0
+47 223 120.0
+47 1008 216.0
+47 917 209.0
+321 65 210.0
+321 47 160.0
+321 781 337.0
+321 950 200.0
+321 1166 327.0
+65 321 200.0
+65 47 380.0
+65 78 150.0
+65 1096 268.0
+78 65 160.0
+78 14 1620.0
+78 311 320.0
+78 1126 350.0
+78 576 214.0
+301 188 115.0
+301 254 100.0
+254 301 99.0
+254 106 141.0
+127 312 660.0
+127 286 340.0
+127 30 530.0
+127 33 1020.0
+127 51 2520.0
+127 638 370.0
+127 642 720.0
+127 634 160.0
+127 149 620.0
+127 842 307.0
+127 901 340.0
+127 11 360.0
+127 364 327.0
+634 649 140.0
+634 127 220.0
+634 1321 251.0
+634 573 278.0
+649 286 140.0
+649 634 140.0
+649 598 209.0
+649 1300 379.0
+649 1303 363.0
+286 649 140.0
+286 30 300.0
+286 638 120.0
+286 289 160.0
+286 127 420.0
+286 624 349.0
+286 1307 365.0
+638 637 140.0
+638 644 170.0
+638 286 120.0
+638 127 450.0
+638 464 369.0
+637 642 140.0
+637 638 140.0
+642 40 160.0
+642 637 130.0
+642 127 580.0
+642 312 390.0
+642 653 406.0
+642 513 436.0
+642 1325 510.0
+394 457 420.0
+394 350 1800.0
+394 528 420.0
+394 458 1800.0
+394 616 1800.0
+394 354 900.0
+394 571 1080.0
+394 162 254.0
+350 394 2100.0
+350 531 1020.0
+350 571 900.0
+350 167 230.0
+531 350 960.0
+531 458 960.0
+531 126 195.0
+458 439 360.0
+458 616 960.0
+458 474 360.0
+458 531 840.0
+458 173 204.0
+616 458 960.0
+616 474 1080.0
+616 380 780.0
+616 74 204.0
+101 49 390.0
+101 298 630.0
+101 214 150.0
+101 116 315.0
+101 1 202.0
+101 231 407.0
+101 39 172.0
+101 256 350.0
+101 592 225.0
+891 825 70.0
+891 766 282.0
+891 166 49.0
+891 612 100.0
+891 542 95.0
+891 1007 130.0
+825 1177 130.0
+825 829 251.0
+825 1196 10.0
+825 1210 274.0
+1177 983 130.0
+1177 922 63.0
+1177 1075 77.0
+1177 1128 10.0
+983 1036 130.0
+983 817 60.0
+983 827 10.0
+983 962 66.0
+1036 939 150.0
+1036 1133 62.0
+1036 1144 60.0
+1036 1053 12.0
+939 924 185.0
+939 936 190.0
+939 1041 60.0
+939 737 115.0
+939 944 60.0
+939 1070 155.0
+924 1127 170.0
+924 1178 6.0
+924 905 60.0
+1127 850 105.0
+1127 750 8.0
+1127 745 71.0
+850 996 165.0
+850 1143 6.0
+850 938 60.0
+996 1201 125.0
+996 1017 5.0
+996 1015 60.0
+1201 1004 105.0
+1201 823 8.0
+1201 979 60.0
+1004 757 140.0
+1004 1182 10.0
+1004 987 60.0
+757 879 135.0
+757 800 190.0
+757 989 60.0
+757 954 10.0
+800 1213 210.0
+800 954 200.0
+800 818 200.0
+800 879 10.0
+800 744 226.0
+229 28 159.0
+229 252 2460.0
+229 226 2760.0
+229 218 940.0
+229 217 1110.0
+229 1228 3480.0
+229 1277 2430.0
+229 1225 3810.0
+229 208 300.0
+229 269 360.0
+229 1283 1500.0
+229 1062 251.0
+229 490 256.0
+229 1024 326.0
+229 915 377.0
+229 762 256.0
+252 229 1760.0
+252 735 1280.0
+252 226 1620.0
+252 304 170.0
+252 233 430.0
+252 217 1870.0
+252 720 210.0
+252 24 280.0
+252 1283 75.0
+252 460 219.0
+252 1308 22.0
+252 856 199.0
+252 1289 28.0
+252 427 196.0
+252 488 195.0
+233 252 470.0
+233 154 390.0
+233 1279 23.0
+233 908 213.0
+233 1305 23.0
+154 233 390.0
+154 103 530.0
+154 331 350.0
+154 1271 87.0
+154 1328 87.0
+154 902 233.0
+103 154 400.0
+103 224 170.0
+103 701 540.0
+103 331 250.0
+103 691 740.0
+103 1292 97.0
+103 1237 71.0
+103 1148 291.0
+224 103 180.0
+224 226 550.0
+224 1290 52.0
+224 1204 226.0
+224 1269 52.0
+257 169 160.0
+169 102 122.0
+169 257 224.0
+102 123 136.0
+102 169 120.0
+123 246 115.0
+123 102 131.0
+246 123 128.0
+246 341 162.0
+341 40 138.0
+341 246 144.0
+40 312 230.0
+40 30 225.0
+40 44 144.0
+40 341 129.0
+40 642 130.0
+40 544 259.0
+44 40 126.0
+44 30 219.0
+44 312 340.0
+30 632 230.0
+30 48 252.0
+30 640 110.0
+30 286 330.0
+30 44 136.0
+30 40 205.0
+30 636 370.0
+30 644 150.0
+30 127 620.0
+30 899 212.0
+48 30 253.0
+48 37 182.0
+37 48 189.0
+37 208 156.0
+28 283 193.0
+28 229 156.0
+283 28 181.0
+283 346 163.0
+283 96 253.0
+346 283 164.0
+346 139 120.0
+139 323 135.0
+139 346 121.0
+323 113 142.0
+323 139 136.0
+113 323 148.0
+113 29 110.0
+29 143 142.0
+29 113 112.0
+143 22 132.0
+143 29 141.0
+22 143 132.0
+22 243 204.0
+243 22 169.0
+243 31 199.0
+686 1103 840.0
+686 178 750.0
+686 1281 780.0
+686 330 760.0
+686 709 270.0
+686 1087 343.0
+686 776 324.0
+686 1042 324.0
+709 686 320.0
+709 660 160.0
+709 830 199.0
+660 709 160.0
+660 692 210.0
+660 1079 186.0
+692 661 150.0
+692 660 190.0
+692 928 217.0
+661 673 140.0
+661 692 140.0
+661 1163 186.0
+673 661 150.0
+673 702 230.0
+673 839 341.0
+702 673 200.0
+702 330 160.0
+702 867 200.0
+330 310 160.0
+330 178 360.0
+330 702 180.0
+330 309 130.0
+330 686 670.0
+178 62 420.0
+178 676 840.0
+178 260 340.0
+178 633 380.0
+178 111 240.0
+178 686 860.0
+178 330 260.0
+178 1281 37.0
+178 1103 45.0
+178 994 323.0
+178 775 320.0
+178 840 49.0
+178 577 219.0
+260 62 240.0
+260 717 200.0
+260 178 350.0
+260 769 208.0
+260 452 251.0
+260 882 271.0
+62 688 240.0
+62 727 900.0
+62 260 270.0
+62 178 400.0
+62 622 214.0
+62 1255 36.0
+688 62 230.0
+688 725 350.0
+688 918 195.0
+725 688 270.0
+725 728 260.0
+725 913 201.0
+725 872 232.0
+728 718 240.0
+728 725 220.0
+728 1130 199.0
+728 824 191.0
+718 728 230.0
+718 672 260.0
+718 1152 279.0
+718 1195 255.0
+672 727 420.0
+672 718 260.0
+672 857 200.0
+672 1039 183.0
+727 62 790.0
+727 672 300.0
+727 1329 115.0
+727 1302 179.0
+727 1118 228.0
+727 1263 179.0
+51 104 420.0
+51 248 550.0
+51 127 2510.0
+51 142 80.0
+51 412 338.0
+51 374 187.0
+149 303 210.0
+149 60 360.0
+149 329 190.0
+149 127 730.0
+149 275 240.0
+149 475 196.0
+303 60 270.0
+303 228 330.0
+303 149 240.0
+303 160 380.0
+303 425 215.0
+60 303 260.0
+60 228 160.0
+60 249 390.0
+60 160 240.0
+60 149 390.0
+60 580 198.0
+228 303 300.0
+228 60 190.0
+228 160 170.0
+228 424 193.0
+160 303 450.0
+160 60 260.0
+160 228 190.0
+160 249 270.0
+160 582 191.0
+249 60 470.0
+249 207 200.0
+249 107 480.0
+249 215 280.0
+249 160 310.0
+249 149 630.0
+249 613 217.0
+249 534 219.0
+207 302 170.0
+207 58 200.0
+207 249 220.0
+207 3 170.0
+207 469 215.0
+207 620 217.0
+302 207 150.0
+302 220 180.0
+302 392 410.0
+302 375 365.0
+220 302 160.0
+220 98 180.0
+220 387 359.0
+220 484 322.0
+220 468 356.0
+98 220 170.0
+98 325 200.0
+98 416 233.0
+98 515 222.0
+98 530 198.0
+325 98 190.0
+325 42 270.0
+325 391 202.0
+325 607 194.0
+42 179 230.0
+42 325 260.0
+42 480 196.0
+42 565 200.0
+179 172 160.0
+179 42 240.0
+179 438 268.0
+179 556 271.0
+179 564 203.0
+172 194 270.0
+172 179 150.0
+172 471 244.0
+172 507 301.0
+194 172 260.0
+194 316 230.0
+194 373 209.0
+194 583 198.0
+316 55 190.0
+316 194 220.0
+316 451 334.0
+55 316 180.0
+55 114 210.0
+55 589 219.0
+55 402 199.0
+55 497 231.0
+114 55 210.0
+114 142 220.0
+114 517 247.0
+114 511 215.0
+114 595 200.0
+114 591 209.0
+142 248 490.0
+142 51 210.0
+142 114 200.0
+142 420 196.0
+142 443 206.0
+269 217 520.0
+269 145 180.0
+269 229 390.0
+269 337 300.0
+269 1056 193.0
+269 415 230.0
+269 749 222.0
+145 269 170.0
+145 217 520.0
+145 218 440.0
+145 337 200.0
+145 586 453.0
+145 477 420.0
+337 269 290.0
+337 217 380.0
+337 145 180.0
+337 218 240.0
+337 615 197.0
+218 269 570.0
+218 217 170.0
+218 337 220.0
+218 567 186.0
+218 378 201.0
+217 229 1030.0
+217 252 1940.0
+217 218 190.0
+217 145 400.0
+217 337 330.0
+217 92 290.0
+217 269 780.0
+217 155 250.0
+217 1098 186.0
+217 421 201.0
+217 895 236.0
+217 501 208.0
+155 217 310.0
+155 54 240.0
+155 621 222.0
+155 1107 228.0
+54 300 500.0
+54 34 270.0
+54 216 320.0
+54 95 570.0
+54 219 180.0
+54 213 300.0
+54 118 240.0
+54 171 760.0
+54 155 240.0
+54 355 376.0
+54 1121 223.0
+54 574 370.0
+219 213 200.0
+219 34 210.0
+219 54 160.0
+219 81 820.0
+219 363 281.0
+219 1140 274.0
+219 537 262.0
+213 219 210.0
+213 15 220.0
+213 54 280.0
+213 353 254.0
+213 494 239.0
+15 213 200.0
+15 91 180.0
+15 502 201.0
+91 19 170.0
+91 15 200.0
+91 752 223.0
+91 351 189.0
+91 552 199.0
+91 853 216.0
+91 379 202.0
+19 91 160.0
+19 81 230.0
+19 1183 215.0
+19 845 185.0
+19 472 352.0
+1171 1085 140.0
+1171 1055 9.0
+1171 36 233.0
+1085 1040 110.0
+1085 1012 15.0
+1085 93 262.0
+1040 985 150.0
+1040 1211 10.0
+985 1114 150.0
+985 158 728.0
+985 916 9.0
+985 571 514.0
+1114 1097 150.0
+1114 1045 11.0
+1097 781 170.0
+1097 1166 150.0
+1097 847 10.0
+314 263 290.0
+314 555 216.0
+263 314 400.0
+263 170 230.0
+263 563 210.0
+170 120 190.0
+170 263 230.0
+170 572 196.0
+120 339 290.0
+120 170 200.0
+120 617 250.0
+339 120 290.0
+339 297 350.0
+339 435 188.0
+297 339 350.0
+297 334 300.0
+297 481 227.0
+334 235 330.0
+334 297 300.0
+334 357 193.0
+334 478 207.0
+235 271 270.0
+235 334 340.0
+235 626 205.0
+235 560 261.0
+271 235 260.0
+271 81 240.0
+271 430 192.0
+271 362 188.0
+271 404 208.0
+81 271 250.0
+81 219 610.0
+81 202 200.0
+81 19 180.0
+81 38 250.0
+81 1051 190.0
+81 496 192.0
+81 401 211.0
+38 121 210.0
+38 81 240.0
+121 34 210.0
+121 38 240.0
+34 219 250.0
+34 121 230.0
+34 366 216.0
+740 771 2400.0
+740 1215 840.0
+740 545 1200.0
+740 935 60.0
+740 262 243.0
+1215 976 780.0
+1215 740 840.0
+1215 315 257.0
+976 832 780.0
+976 1215 780.0
+976 183 212.0
+832 1208 900.0
+832 976 780.0
+832 284 257.0
+136 324 116.0
+136 122 278.0
+136 790 333.0
+136 1030 357.0
+324 122 242.0
+324 136 159.0
+324 190 431.0
+324 1094 277.0
+122 324 246.0
+122 190 223.0
+122 925 208.0
+190 45 112.0
+190 324 417.0
+190 122 236.0
+190 203 207.0
+190 770 217.0
+45 190 135.0
+45 203 127.0
+45 265 231.0
+203 45 124.0
+203 190 189.0
+203 265 175.0
+203 1138 210.0
+203 1206 199.0
+265 45 234.0
+265 79 164.0
+265 203 175.0
+265 783 202.0
+79 272 209.0
+79 265 170.0
+79 294 158.0
+79 831 189.0
+79 877 202.0
+79 422 235.0
+294 79 153.0
+294 272 121.0
+294 96 203.0
+272 79 206.0
+272 96 161.0
+272 294 120.0
+272 1132 231.0
+272 972 225.0
+96 70 430.0
+96 272 162.0
+96 290 240.0
+96 281 630.0
+96 279 180.0
+96 68 1160.0
+96 27 330.0
+96 283 270.0
+96 294 221.0
+96 604 217.0
+96 476 232.0
+312 181 810.0
+312 135 190.0
+312 33 570.0
+312 44 270.0
+312 40 230.0
+312 642 290.0
+312 127 810.0
+312 536 249.0
+135 344 120.0
+135 3 400.0
+135 312 180.0
+135 405 220.0
+344 135 120.0
+344 33 400.0
+344 273 230.0
+344 3 370.0
+344 614 214.0
+3 344 360.0
+3 135 440.0
+3 207 180.0
+3 553 197.0
+58 207 170.0
+58 63 210.0
+58 447 251.0
+63 7 260.0
+63 58 200.0
+63 570 240.0
+63 933 235.0
+7 35 260.0
+7 63 230.0
+7 432 237.0
+7 1016 244.0
+46 193 240.0
+46 454 200.0
+193 46 170.0
+193 287 360.0
+193 1315 8.0
+193 1298 24.0
+193 603 199.0
+193 1284 7.0
+287 250 190.0
+287 193 330.0
+287 505 199.0
+250 174 210.0
+250 287 200.0
+250 566 273.0
+174 161 200.0
+174 250 220.0
+174 540 215.0
+161 293 230.0
+161 174 210.0
+161 446 198.0
+293 161 230.0
+293 300 270.0
+293 456 212.0
+300 293 310.0
+300 230 280.0
+300 54 610.0
+300 205 250.0
+300 600 211.0
+300 1131 202.0
+205 300 230.0
+205 343 170.0
+205 390 191.0
+205 1013 199.0
+343 17 200.0
+343 205 180.0
+343 489 243.0
+17 343 200.0
+17 216 180.0
+17 764 242.0
+17 445 225.0
+216 240 220.0
+216 17 180.0
+216 54 280.0
+216 543 233.0
+216 1116 202.0
+216 579 198.0
+307 236 150.0
+307 195 180.0
+307 599 195.0
+236 307 160.0
+236 255 140.0
+236 448 231.0
+236 479 138.0
+255 236 160.0
+255 73 170.0
+255 482 200.0
+73 72 190.0
+73 255 160.0
+73 623 204.0
+72 73 180.0
+72 309 280.0
+72 525 205.0
+72 504 219.0
+309 72 270.0
+309 330 120.0
+309 384 189.0
+173 126 270.0
+173 61 180.0
+173 458 204.0
+126 167 170.0
+126 173 290.0
+126 531 195.0
+167 126 280.0
+167 158 200.0
+167 350 230.0
+158 167 200.0
+158 89 270.0
+158 985 728.0
+158 916 735.0
+158 571 223.0
+89 162 190.0
+89 158 290.0
+89 93 230.0
+89 311 430.0
+89 528 316.0
+89 457 311.0
+162 89 200.0
+162 311 290.0
+162 394 254.0
+92 217 310.0
+92 237 190.0
+92 523 187.0
+237 97 190.0
+237 92 180.0
+237 844 193.0
+237 406 189.0
+97 82 220.0
+97 237 190.0
+97 356 248.0
+97 772 226.0
+82 97 210.0
+82 201 180.0
+82 370 373.0
+82 619 396.0
+201 270 280.0
+201 82 180.0
+201 1020 220.0
+201 369 200.0
+270 229 1250.0
+270 201 290.0
+270 182 250.0
+270 459 266.0
+270 561 274.0
+182 270 230.0
+182 327 220.0
+182 358 227.0
+182 1066 218.0
+327 182 240.0
+327 304 230.0
+327 835 212.0
+327 512 232.0
+304 252 260.0
+304 327 250.0
+304 1088 225.0
+304 470 205.0
+189 310 170.0
+189 837 223.0
+189 396 186.0
+310 189 220.0
+310 330 160.0
+310 493 390.0
+310 906 361.0
+144 199 170.0
+144 95 210.0
+144 957 369.0
+144 386 378.0
+199 118 160.0
+199 144 160.0
+199 499 220.0
+199 1205 226.0
+118 199 170.0
+118 54 290.0
+118 486 193.0
+118 778 204.0
+33 312 560.0
+33 344 420.0
+33 319 280.0
+33 273 250.0
+33 127 1170.0
+33 381 236.0
+33 398 236.0
+273 344 230.0
+273 33 380.0
+273 1299 195.0
+345 0 145.0
+0 345 172.0
+0 185 187.0
+185 0 193.0
+185 18 114.0
+18 146 102.0
+18 185 113.0
+146 231 119.0
+146 18 112.0
+231 101 412.0
+231 256 143.0
+231 146 137.0
+256 101 325.0
+256 39 266.0
+256 231 138.0
+256 128 117.0
+128 256 141.0
+128 52 144.0
+52 39 106.0
+52 128 173.0
+39 101 132.0
+39 256 273.0
+39 52 125.0
+633 178 370.0
+633 630 170.0
+633 628 170.0
+633 747 376.0
+633 815 224.0
+633 1006 356.0
+628 636 200.0
+628 633 200.0
+628 1018 296.0
+636 632 250.0
+636 635 150.0
+636 30 380.0
+636 628 250.0
+636 641 220.0
+636 1150 227.0
+636 1137 194.0
+632 636 260.0
+632 30 230.0
+632 635 150.0
+632 640 170.0
+632 1065 195.0
+632 834 203.0
+640 632 150.0
+640 30 130.0
+640 635 240.0
+640 863 248.0
+571 394 1320.0
+571 350 1020.0
+571 457 900.0
+571 916 521.0
+571 985 514.0
+571 158 223.0
+230 300 350.0
+230 222 180.0
+222 230 180.0
+222 133 140.0
+222 554 197.0
+133 23 190.0
+133 222 160.0
+133 492 220.0
+23 133 200.0
+23 320 190.0
+23 506 210.0
+320 156 250.0
+320 23 190.0
+320 520 183.0
+156 320 230.0
+156 25 250.0
+156 426 193.0
+25 165 280.0
+25 156 270.0
+25 419 194.0
+1227 1225 3240.0
+1227 226 2700.0
+1227 1228 3810.0
+1227 1273 3450.0
+1228 1235 510.0
+1228 229 3510.0
+1228 1322 420.0
+1228 1223 1920.0
+1228 1272 570.0
+1228 1285 450.0
+1228 1221 540.0
+1228 1231 1050.0
+1228 1227 4440.0
+1228 1248 1080.0
+1248 1229 510.0
+1248 1294 450.0
+1248 1231 30.0
+1248 1262 5.0
+11 138 190.0
+11 127 360.0
+11 842 367.0
+11 901 297.0
+11 364 246.0
+138 281 220.0
+138 11 300.0
+138 809 150.0
+138 771 117.0
+138 354 344.0
+138 789 69.0
+138 760 358.0
+138 68 350.0
+138 311 240.0
+281 138 240.0
+281 96 630.0
+281 4 190.0
+281 529 226.0
+281 1071 265.0
+4 27 290.0
+4 281 240.0
+4 68 750.0
+4 1033 312.0
+4 869 328.0
+4 368 302.0
+27 285 200.0
+27 166 170.0
+27 96 330.0
+27 4 290.0
+27 433 202.0
+166 27 150.0
+166 67 200.0
+166 1007 244.0
+166 891 49.0
+166 766 240.0
+166 542 189.0
+166 612 220.0
+67 184 130.0
+67 166 200.0
+67 359 209.0
+184 110 180.0
+184 67 140.0
+184 466 203.0
+110 184 180.0
+110 157 180.0
+110 453 332.0
+600 574 1800.0
+600 456 900.0
+600 390 780.0
+600 376 720.0
+600 1131 60.0
+600 300 211.0
+390 489 900.0
+390 600 780.0
+390 205 191.0
+390 1013 60.0
+489 1013 360.0
+489 390 900.0
+489 445 600.0
+489 343 243.0
+445 1116 480.0
+445 489 600.0
+445 543 600.0
+445 17 225.0
+445 764 60.0
+543 574 720.0
+543 216 233.0
+543 1116 60.0
+543 579 60.0
+289 286 150.0
+289 225 160.0
+289 442 199.0
+225 329 120.0
+225 289 160.0
+225 361 207.0
+329 225 120.0
+329 149 170.0
+275 164 190.0
+275 149 230.0
+275 1257 191.0
+275 1240 270.0
+248 722 230.0
+248 340 230.0
+248 51 570.0
+248 142 460.0
+248 594 245.0
+722 248 250.0
+722 705 260.0
+722 959 241.0
+705 722 260.0
+705 713 210.0
+705 788 219.0
+713 680 260.0
+713 705 190.0
+680 713 240.0
+680 676 390.0
+680 961 201.0
+676 680 340.0
+676 678 140.0
+676 178 760.0
+676 700 530.0
+676 669 390.0
+676 860 235.0
+678 683 220.0
+678 676 150.0
+678 768 210.0
+683 678 240.0
+683 717 270.0
+683 923 257.0
+717 683 230.0
+717 260 220.0
+717 866 228.0
+399 413 1200.0
+399 389 540.0
+399 372 60.0
+399 71 247.0
+413 594 900.0
+413 399 1200.0
+413 340 197.0
+594 412 720.0
+594 413 900.0
+594 420 660.0
+594 248 245.0
+420 374 240.0
+420 412 300.0
+420 142 196.0
+420 443 60.0
+655 651 720.0
+651 655 720.0
+651 654 720.0
+651 646 303.0
+654 652 660.0
+654 656 60.0
+652 650 660.0
+652 657 60.0
+31 243 144.0
+1229 1231 390.0
+1229 1262 390.0
+1229 1330 16.0
+1229 1294 21.0
+1262 1331 480.0
+1262 1228 990.0
+1262 1248 5.0
+1262 1231 30.0
+577 558 480.0
+577 452 660.0
+577 776 2460.0
+577 860 1200.0
+577 592 1800.0
+577 548 600.0
+577 815 1140.0
+577 1281 160.0
+577 775 124.0
+577 178 219.0
+577 840 214.0
+577 1103 166.0
+577 994 135.0
+612 359 840.0
+612 1070 960.0
+612 829 120.0
+612 1007 162.0
+612 766 335.0
+612 542 96.0
+612 891 100.0
+612 166 220.0
+1070 542 960.0
+1070 1133 240.0
+1070 905 240.0
+1070 939 155.0
+1070 944 151.0
+1070 737 113.0
+1070 1041 152.0
+905 745 180.0
+905 1070 300.0
+905 1178 60.0
+905 924 60.0
+745 938 180.0
+745 905 180.0
+745 1127 71.0
+745 750 71.0
+938 1015 240.0
+938 745 180.0
+938 1143 60.0
+938 850 60.0
+1015 979 180.0
+1015 938 240.0
+1015 996 60.0
+1015 1017 60.0
+979 1015 180.0
+979 987 180.0
+979 1201 60.0
+979 823 60.0
+987 979 180.0
+987 989 120.0
+987 1182 60.0
+987 1004 60.0
+989 744 240.0
+989 987 120.0
+989 954 60.0
+989 757 60.0
+744 743 240.0
+744 989 240.0
+744 800 226.0
+744 879 221.0
+68 704 1500.0
+68 659 2040.0
+68 157 810.0
+68 259 1680.0
+68 4 670.0
+68 281 480.0
+68 809 201.0
+68 955 292.0
+68 138 350.0
+68 896 419.0
+68 611 410.0
+68 930 288.0
+68 878 350.0
+68 1149 303.0
+68 1115 300.0
+704 726 360.0
+704 68 1620.0
+704 671 310.0
+704 1160 203.0
+704 1084 200.0
+671 704 420.0
+671 697 350.0
+671 689 360.0
+671 952 222.0
+697 658 390.0
+697 671 330.0
+697 1060 295.0
+658 716 390.0
+658 697 360.0
+658 1203 250.0
+716 658 340.0
+716 723 370.0
+716 1035 184.0
+723 716 410.0
+723 694 240.0
+723 998 248.0
+694 731 410.0
+694 723 240.0
+694 741 525.0
+322 262 110.0
+322 942 205.0
+262 322 210.0
+262 311 1950.0
+262 315 340.0
+262 740 243.0
+262 935 236.0
+288 206 320.0
+288 43 210.0
+288 487 253.0
+43 192 230.0
+43 288 230.0
+43 538 382.0
+192 74 300.0
+192 43 220.0
+192 380 211.0
+74 61 190.0
+74 192 310.0
+74 616 204.0
+61 74 190.0
+61 173 160.0
+61 439 372.0
+61 474 358.0
+1208 738 720.0
+1208 832 900.0
+1208 785 600.0
+1208 771 2100.0
+1208 759 192.0
+1208 1099 166.0
+1208 791 227.0
+1208 5 212.0
+1208 792 60.0
+1208 1093 180.0
+644 30 130.0
+644 638 160.0
+635 632 150.0
+635 636 120.0
+635 640 240.0
+641 636 210.0
+641 631 200.0
+631 641 190.0
+631 629 130.0
+629 647 140.0
+629 631 130.0
+647 643 130.0
+647 629 140.0
+643 647 140.0
+643 648 180.0
+648 643 180.0
+648 627 150.0
+627 646 240.0
+627 648 140.0
+315 183 120.0
+315 262 340.0
+315 1215 257.0
+183 284 150.0
+183 315 120.0
+183 976 212.0
+284 183 140.0
+284 5 210.0
+284 832 257.0
+157 666 270.0
+157 110 140.0
+157 68 960.0
+157 467 211.0
+157 559 237.0
+157 897 230.0
+666 663 300.0
+666 157 270.0
+666 802 215.0
+666 838 254.0
+663 726 480.0
+663 666 300.0
+663 1193 248.0
+726 698 480.0
+726 704 510.0
+726 685 150.0
+726 663 360.0
+726 914 245.0
+726 981 379.0
+165 280 190.0
+165 25 260.0
+165 1326 3.0
+165 1245 9.0
+165 498 194.0
+545 625 600.0
+545 921 1200.0
+545 1100 900.0
+545 740 1200.0
+545 14 194.0
+791 888 105.0
+791 759 66.0
+791 1099 103.0
+791 5 252.0
+791 1208 227.0
+791 1093 57.0
+791 792 199.0
+888 742 110.0
+888 1179 81.0
+888 855 9.0
+888 927 71.0
+742 819 100.0
+742 1048 63.0
+742 1095 10.0
+742 820 94.0
+819 974 125.0
+819 826 105.0
+819 874 62.0
+819 828 9.0
+974 944 170.0
+974 1102 71.0
+974 936 12.0
+974 761 87.0
+944 1053 140.0
+944 1070 151.0
+944 1041 60.0
+944 939 60.0
+944 737 122.0
+1053 827 130.0
+1053 1036 12.0
+1053 1133 60.0
+1053 1144 60.0
+827 1128 130.0
+827 817 60.0
+827 983 10.0
+827 962 60.0
+1128 1196 140.0
+1128 922 60.0
+1128 1177 10.0
+1128 1075 76.0
+1196 1007 90.0
+1196 825 10.0
+1196 829 253.0
+1196 1210 276.0
+35 7 130.0
+35 450 225.0
+234 186 230.0
+234 53 270.0
+234 129 230.0
+186 234 280.0
+186 168 190.0
+168 112 370.0
+168 186 180.0
+112 291 250.0
+112 196 180.0
+112 168 380.0
+196 112 190.0
+196 197 170.0
+197 196 170.0
+197 125 170.0
+125 75 200.0
+125 197 180.0
+75 125 230.0
+75 93 340.0
+75 84 180.0
+75 311 810.0
+84 9 140.0
+84 75 190.0
+9 93 190.0
+9 84 160.0
+93 9 220.0
+93 89 220.0
+93 264 240.0
+93 311 530.0
+93 317 160.0
+93 75 350.0
+93 1012 252.0
+93 1085 262.0
+781 847 160.0
+781 950 261.0
+781 1166 12.0
+781 321 337.0
+847 1045 150.0
+847 1097 10.0
+1045 916 150.0
+1045 1114 11.0
+916 1211 150.0
+916 158 735.0
+916 571 521.0
+916 985 9.0
+1211 1012 110.0
+1211 1040 10.0
+1012 1055 145.0
+1012 1171 150.0
+1012 93 252.0
+1012 1085 15.0
+646 627 170.0
+646 651 303.0
+818 879 160.0
+818 800 170.0
+818 1213 7.0
+818 743 60.0
+879 954 200.0
+879 744 221.0
+879 800 10.0
+954 1182 120.0
+954 757 10.0
+954 989 60.0
+1182 823 100.0
+1182 1004 10.0
+1182 987 60.0
+823 1017 125.0
+823 979 60.0
+823 1201 8.0
+1017 1143 155.0
+1017 1015 60.0
+1017 996 5.0
+1143 750 100.0
+1143 938 60.0
+1143 850 6.0
+750 1178 165.0
+750 1127 8.0
+750 745 71.0
+1178 1041 190.0
+1178 924 6.0
+1178 905 60.0
+1041 1053 140.0
+1041 944 60.0
+1041 939 60.0
+1041 1070 152.0
+1041 737 120.0
+766 825 60.0
+766 1007 152.0
+766 1210 292.0
+766 542 217.0
+766 612 335.0
+766 829 318.0
+766 166 240.0
+766 891 282.0
+70 16 160.0
+70 258 220.0
+70 96 320.0
+70 610 240.0
+70 885 286.0
+70 920 240.0
+16 279 170.0
+16 70 240.0
+16 508 184.0
+279 16 200.0
+279 96 180.0
+279 601 193.0
+279 1188 207.0
+279 1034 213.0
+290 285 170.0
+290 96 170.0
+290 779 234.0
+290 385 191.0
+285 27 190.0
+285 290 150.0
+285 546 202.0
+285 514 186.0
+285 1156 224.0
+380 616 660.0
+380 487 960.0
+380 538 720.0
+380 192 211.0
+576 394 300.0
+576 1096 900.0
+576 78 214.0
+576 1126 142.0
+498 419 720.0
+498 1245 90.0
+498 165 194.0
+498 1326 94.0
+419 498 1200.0
+419 426 360.0
+419 25 194.0
+426 520 480.0
+426 419 540.0
+426 156 193.0
+520 426 600.0
+520 506 300.0
+520 320 183.0
+506 520 240.0
+506 492 360.0
+506 23 210.0
+492 554 600.0
+492 506 300.0
+492 133 220.0
+554 376 540.0
+554 492 480.0
+554 222 197.0
+376 554 360.0
+376 600 600.0
+239 234 600.0
+239 200 200.0
+239 117 170.0
+239 66 230.0
+239 6 610.0
+117 276 210.0
+117 239 210.0
+276 117 190.0
+276 57 160.0
+57 276 150.0
+57 100 150.0
+100 57 160.0
+100 296 150.0
+296 99 110.0
+296 100 150.0
+99 6 130.0
+99 296 110.0
+6 239 950.0
+6 99 150.0
+6 338 190.0
+338 6 190.0
+338 336 110.0
+336 164 150.0
+336 338 110.0
+264 317 130.0
+264 164 240.0
+264 93 200.0
+264 69 150.0
+317 264 130.0
+317 93 130.0
+514 385 600.0
+514 1156 60.0
+514 285 186.0
+514 546 71.0
+385 476 600.0
+385 1156 420.0
+385 546 600.0
+385 779 60.0
+385 290 191.0
+476 1034 420.0
+476 422 1200.0
+476 96 232.0
+476 604 60.0
+106 254 125.0
+574 579 720.0
+574 388 1800.0
+574 600 1800.0
+574 486 540.0
+574 355 444.0
+574 54 370.0
+574 1121 322.0
+405 381 1380.0
+405 570 1800.0
+405 400 1440.0
+405 398 1380.0
+405 614 360.0
+405 536 900.0
+405 135 220.0
+614 405 480.0
+614 1251 300.0
+614 398 1200.0
+614 1299 360.0
+614 553 660.0
+614 344 214.0
+553 614 660.0
+553 469 660.0
+553 1275 480.0
+553 3 197.0
+469 447 420.0
+469 553 660.0
+469 417 240.0
+469 620 60.0
+469 207 215.0
+447 570 480.0
+447 1301 240.0
+447 469 420.0
+447 1316 120.0
+447 58 251.0
+570 447 480.0
+570 432 720.0
+570 1312 300.0
+570 431 300.0
+570 405 1800.0
+570 933 66.0
+570 63 240.0
+432 570 1020.0
+432 450 480.0
+432 1016 106.0
+432 7 237.0
+592 577 1800.0
+592 485 900.0
+592 608 600.0
+592 101 225.0
+608 526 600.0
+608 592 600.0
+608 49 199.0
+526 608 600.0
+526 360 420.0
+526 119 185.0
+360 367 300.0
+360 526 420.0
+360 88 357.0
+367 395 300.0
+367 360 300.0
+367 305 192.0
+395 577 480.0
+395 558 60.0
+395 111 287.0
+1093 888 95.0
+1093 791 57.0
+1093 1099 78.0
+1093 5 242.0
+1093 792 152.0
+1093 1208 180.0
+1093 759 60.0
+921 771 2400.0
+921 545 1200.0
+206 180 500.0
+206 288 330.0
+206 418 322.0
+1231 1229 540.0
+1231 1233 450.0
+1231 1228 960.0
+1231 1248 30.0
+1231 1262 30.0
+1233 1231 510.0
+1233 1223 360.0
+1233 1268 43.0
+1233 1331 43.0
+1223 1235 300.0
+1223 1233 420.0
+1223 1228 750.0
+1223 1272 26.0
+1223 1266 24.0
+1235 1228 360.0
+1235 1223 390.0
+1235 1285 25.0
+1235 1260 19.0
+1221 1217 360.0
+1221 1228 510.0
+1221 1322 13.0
+1221 1295 11.0
+1217 1221 420.0
+1217 1225 270.0
+1217 1319 67.0
+1217 1254 64.0
+1225 1227 3540.0
+1225 226 480.0
+1225 1217 360.0
+1225 229 3240.0
+1225 1273 28.0
+1225 1278 31.0
+645 639 110.0
+639 630 140.0
+639 645 180.0
+630 633 170.0
+630 639 140.0
+630 548 218.0
+630 1069 258.0
+412 443 300.0
+412 51 338.0
+412 374 249.0
+443 594 660.0
+443 517 480.0
+443 595 360.0
+443 142 206.0
+443 420 60.0
+259 68 1800.0
+259 227 290.0
+259 719 420.0
+259 495 203.0
+259 1021 202.0
+227 68 1920.0
+227 259 360.0
+227 115 240.0
+227 557 201.0
+115 175 240.0
+115 227 240.0
+115 377 242.0
+175 244 190.0
+175 115 240.0
+175 519 236.0
+244 258 240.0
+244 175 210.0
+244 441 358.0
+258 244 220.0
+258 70 220.0
+258 436 221.0
+319 181 310.0
+319 33 270.0
+319 461 191.0
+181 90 240.0
+181 71 660.0
+181 319 300.0
+181 312 860.0
+181 389 206.0
+181 152 135.0
+90 181 210.0
+90 71 280.0
+90 503 196.0
+71 90 250.0
+71 340 340.0
+71 181 460.0
+71 372 247.0
+71 399 247.0
+340 71 300.0
+340 248 310.0
+340 413 197.0
+211 242 410.0
+242 211 510.0
+242 104 350.0
+104 242 360.0
+104 51 380.0
+69 264 140.0
+69 164 150.0
+936 828 125.0
+936 974 12.0
+936 761 87.0
+936 1102 74.0
+828 1095 100.0
+828 826 101.0
+828 819 9.0
+828 874 66.0
+1095 855 110.0
+1095 742 10.0
+1095 1048 64.0
+1095 820 88.0
+855 1093 125.0
+855 791 135.0
+855 888 9.0
+855 1179 86.0
+855 927 76.0
+240 191 170.0
+240 216 210.0
+240 409 352.0
+191 240 180.0
+191 85 190.0
+191 509 195.0
+85 191 200.0
+85 298 140.0
+85 516 210.0
+298 101 440.0
+298 85 130.0
+298 485 200.0
+49 101 270.0
+49 119 170.0
+49 608 199.0
+119 49 170.0
+119 88 180.0
+119 526 185.0
+88 305 200.0
+88 119 170.0
+88 360 357.0
+305 88 200.0
+305 111 170.0
+305 367 192.0
+111 95 2690.0
+111 305 160.0
+111 178 340.0
+111 558 267.0
+111 395 287.0
+1055 1085 140.0
+1055 1171 9.0
+1055 36 226.0
+460 943 660.0
+460 908 780.0
+460 846 1920.0
+460 1289 192.0
+460 1283 288.0
+460 427 235.0
+460 488 246.0
+460 856 241.0
+460 252 219.0
+460 1308 196.0
+943 1029 300.0
+943 488 660.0
+943 720 206.0
+1029 943 540.0
+1029 956 420.0
+1029 706 226.0
+956 1185 540.0
+956 1029 420.0
+956 670 195.0
+1185 956 540.0
+1185 909 360.0
+1185 674 204.0
+909 793 480.0
+909 1185 360.0
+909 708 198.0
+793 909 420.0
+793 488 1500.0
+793 960 480.0
+793 1293 154.0
+793 1277 107.0
+793 735 192.0
+960 793 480.0
+960 1054 480.0
+960 732 209.0
+1054 1197 720.0
+1054 960 360.0
+1054 695 234.0
+226 229 4260.0
+226 735 680.0
+226 224 450.0
+226 1269 780.0
+226 1289 2580.0
+226 695 250.0
+226 1293 780.0
+226 1225 480.0
+226 1227 2880.0
+226 1273 510.0
+226 1197 195.0
+215 2 200.0
+215 249 310.0
+215 585 220.0
+215 1316 193.0
+2 215 230.0
+2 107 190.0
+2 532 235.0
+77 86 230.0
+77 107 260.0
+579 764 480.0
+579 409 540.0
+579 445 600.0
+579 216 198.0
+579 543 60.0
+579 1116 60.0
+456 446 720.0
+456 600 900.0
+456 293 212.0
+446 540 660.0
+446 456 720.0
+446 161 198.0
+540 566 420.0
+540 446 660.0
+540 174 215.0
+566 540 420.0
+566 505 360.0
+566 250 273.0
+505 566 360.0
+505 603 780.0
+505 287 199.0
+603 454 300.0
+603 505 780.0
+603 1315 70.0
+603 1298 81.0
+603 1284 76.0
+603 193 199.0
+555 563 660.0
+555 481 2700.0
+555 314 216.0
+563 555 660.0
+563 572 360.0
+563 263 210.0
+572 563 360.0
+572 617 480.0
+572 170 196.0
+617 435 780.0
+617 572 480.0
+617 120 250.0
+435 617 780.0
+435 481 360.0
+435 339 188.0
+481 357 720.0
+481 496 1800.0
+481 435 360.0
+481 478 660.0
+481 555 2700.0
+481 297 227.0
+357 560 720.0
+357 481 720.0
+357 478 60.0
+357 334 193.0
+560 430 60.0
+560 357 720.0
+560 626 69.0
+560 235 261.0
+430 560 660.0
+430 401 1140.0
+430 271 192.0
+430 362 60.0
+430 404 60.0
+1115 947 4800.0
+1115 495 3600.0
+1115 467 2400.0
+1115 787 5940.0
+1115 1084 3000.0
+1115 1022 3600.0
+1115 930 247.0
+1115 955 249.0
+1115 878 349.0
+1115 68 300.0
+1115 1149 204.0
+1115 896 350.0
+787 1141 480.0
+787 668 198.0
+787 880 60.0
+232 109 380.0
+232 64 200.0
+64 109 320.0
+64 232 230.0
+109 277 330.0
+109 232 380.0
+109 64 300.0
+109 94 560.0
+277 109 310.0
+277 326 200.0
+326 277 240.0
+326 94 270.0
+94 109 540.0
+94 332 280.0
+94 209 390.0
+94 326 290.0
+332 209 230.0
+332 94 280.0
+209 86 290.0
+209 332 240.0
+209 94 380.0
+209 151 230.0
+151 86 190.0
+151 209 240.0
+86 77 250.0
+86 209 300.0
+86 151 190.0
+695 226 310.0
+695 732 240.0
+695 1054 234.0
+732 735 280.0
+732 695 260.0
+732 960 209.0
+735 226 700.0
+735 252 1120.0
+735 732 280.0
+735 708 270.0
+735 1293 25.0
+735 1277 25.0
+735 793 192.0
+708 735 290.0
+708 674 150.0
+708 909 198.0
+674 670 300.0
+674 708 140.0
+674 1185 204.0
+670 706 240.0
+670 674 290.0
+670 956 195.0
+706 720 200.0
+706 670 240.0
+706 1029 226.0
+720 252 290.0
+720 706 200.0
+720 943 206.0
+485 592 1020.0
+485 516 480.0
+485 298 200.0
+516 485 300.0
+516 509 480.0
+516 85 210.0
+509 409 420.0
+509 516 300.0
+509 191 195.0
+409 509 360.0
+409 543 480.0
+409 240 352.0
+487 394 2880.0
+487 418 1020.0
+487 538 300.0
+487 288 253.0
+538 487 300.0
+538 380 600.0
+538 43 382.0
+454 603 300.0
+454 46 200.0
+200 239 190.0
+200 129 220.0
+129 200 230.0
+129 234 280.0
+743 744 300.0
+743 818 60.0
+743 1213 60.0
+1081 784 480.0
+1081 667 198.0
+1081 947 60.0
+784 1049 180.0
+784 812 105.0
+1049 984 240.0
+1049 1001 60.0
+984 1043 180.0
+984 1001 240.0
+1043 948 120.0
+1043 746 60.0
+948 980 120.0
+948 937 60.0
+980 1110 120.0
+980 940 60.0
+1110 1005 300.0
+1110 940 120.0
+1005 1110 300.0
+1005 999 240.0
+1281 1255 480.0
+1281 1296 1560.0
+1281 686 750.0
+1281 1302 1620.0
+1281 1103 9.0
+1281 577 160.0
+1281 178 37.0
+1281 775 281.0
+1281 994 275.0
+1281 840 70.0
+1255 1302 900.0
+1255 622 83.0
+1255 62 36.0
+1302 1261 360.0
+1302 1296 570.0
+1302 1329 67.0
+1302 1263 359.0
+1302 1118 309.0
+1302 727 179.0
+1261 1296 360.0
+1261 1318 89.0
+1296 1234 480.0
+1296 1239 420.0
+1296 1324 8.0
+1239 1287 720.0
+1239 1317 270.0
+1239 1234 97.0
+1239 1323 27.0
+1317 1274 300.0
+1317 1265 10.0
+1274 1259 300.0
+1274 1264 50.0
+1259 1219 390.0
+1259 1287 390.0
+1259 1253 25.0
+202 238 150.0
+202 81 190.0
+202 428 253.0
+202 1216 262.0
+202 382 281.0
+202 1155 279.0
+202 449 279.0
+202 444 226.0
+238 59 190.0
+238 202 150.0
+238 587 209.0
+238 533 212.0
+238 593 317.0
+238 602 299.0
+59 238 200.0
+59 159 140.0
+159 59 130.0
+159 8 240.0
+159 547 200.0
+159 510 203.0
+8 137 250.0
+8 159 240.0
+8 408 201.0
+8 440 197.0
+137 8 250.0
+137 41 170.0
+137 463 182.0
+137 521 200.0
+137 455 193.0
+41 137 170.0
+41 24 200.0
+41 437 192.0
+41 465 188.0
+24 252 360.0
+24 41 190.0
+331 103 290.0
+331 154 270.0
+278 14 260.0
+278 268 180.0
+278 625 212.0
+268 306 210.0
+268 278 170.0
+268 410 198.0
+306 140 330.0
+306 14 330.0
+306 268 190.0
+306 473 201.0
+140 306 330.0
+140 348 300.0
+140 575 306.0
+348 134 330.0
+348 21 600.0
+348 140 300.0
+348 609 236.0
+134 21 330.0
+134 348 320.0
+134 590 239.0
+1166 847 175.0
+1166 950 251.0
+1166 781 12.0
+1166 321 327.0
+528 571 1020.0
+528 89 316.0
+528 457 60.0
+496 481 1800.0
+496 449 300.0
+496 521 1140.0
+496 408 1200.0
+496 404 600.0
+496 401 60.0
+496 81 192.0
+496 1051 60.0
+521 437 480.0
+521 460 1200.0
+521 440 720.0
+521 496 1140.0
+521 463 60.0
+521 137 200.0
+521 455 60.0
+771 611 120.0
+771 354 245.0
+771 789 60.0
+771 809 200.0
+771 138 117.0
+771 311 270.0
+771 760 260.0
+595 402 480.0
+595 591 60.0
+595 511 231.0
+595 517 268.0
+595 114 200.0
+401 428 840.0
+401 472 600.0
+401 351 660.0
+401 430 1140.0
+401 496 60.0
+401 1051 60.0
+401 81 211.0
+428 587 300.0
+428 382 195.0
+428 444 60.0
+428 1155 369.0
+428 1216 346.0
+428 449 184.0
+428 202 253.0
+587 383 480.0
+587 602 92.0
+587 593 110.0
+587 238 209.0
+587 533 60.0
+383 527 180.0
+383 510 240.0
+383 371 60.0
+510 440 600.0
+510 371 240.0
+510 159 203.0
+510 547 60.0
+440 521 720.0
+440 510 600.0
+440 408 60.0
+440 8 197.0
+437 562 420.0
+437 521 480.0
+437 41 192.0
+437 465 60.0
+562 437 420.0
+562 460 840.0
+562 578 60.0
+1277 226 630.0
+1277 793 107.0
+1277 1293 51.0
+1277 735 25.0
+1267 840 2580.0
+1267 1323 630.0
+1267 1253 300.0
+1267 1219 21.0
+1267 1287 7.0
+1323 1324 360.0
+1323 1239 27.0
+1323 1234 123.0
+1324 1318 360.0
+1324 686 2760.0
+1324 1263 570.0
+1324 1296 8.0
+1263 840 1230.0
+1263 1281 1410.0
+1263 1302 359.0
+1263 1329 294.0
+1263 727 179.0
+1263 1118 55.0
+840 686 840.0
+840 178 49.0
+840 577 214.0
+840 1103 72.0
+840 994 295.0
+840 1281 70.0
+840 775 310.0
+1100 926 600.0
+1100 545 900.0
+1100 333 210.0
+926 785 900.0
+926 187 236.0
+926 751 115.0
+785 1208 600.0
+785 792 600.0
+785 751 900.0
+785 973 240.0
+785 349 191.0
+738 917 360.0
+738 773 60.0
+738 223 213.0
+917 950 360.0
+917 47 209.0
+917 1008 60.0
+950 1096 360.0
+950 1008 300.0
+950 781 261.0
+950 1166 251.0
+950 321 200.0
+1096 1126 480.0
+1096 950 900.0
+1096 65 268.0
+1126 771 780.0
+1126 78 350.0
+1126 576 142.0
+569 418 900.0
+569 180 275.0
+418 487 900.0
+418 569 1320.0
+418 206 322.0
+1298 1220 510.0
+1298 1224 660.0
+1298 1284 31.0
+1298 603 81.0
+1298 1315 28.0
+1298 193 24.0
+1220 1232 270.0
+1220 1282 8.0
+1232 1224 300.0
+1232 1304 30.0
+701 703 230.0
+701 103 440.0
+701 893 213.0
+703 701 250.0
+703 691 420.0
+703 986 203.0
+691 724 310.0
+691 103 750.0
+691 703 390.0
+691 707 500.0
+691 846 192.0
+724 707 400.0
+724 691 310.0
+724 1153 193.0
+707 712 300.0
+707 724 390.0
+707 693 890.0
+707 691 560.0
+707 816 218.0
+712 707 280.0
+712 684 330.0
+712 1170 290.0
+712 756 294.0
+684 712 330.0
+684 693 560.0
+684 1050 263.0
+534 582 1200.0
+534 469 600.0
+534 585 480.0
+534 613 199.0
+534 1313 319.0
+534 1270 312.0
+534 249 219.0
+582 424 420.0
+582 534 1200.0
+582 160 191.0
+424 582 420.0
+424 580 420.0
+424 228 193.0
+580 425 540.0
+580 424 420.0
+580 60 198.0
+425 580 540.0
+425 475 480.0
+425 303 215.0
+685 726 240.0
+685 734 180.0
+685 1080 308.0
+685 1072 281.0
+734 729 210.0
+734 685 150.0
+734 912 278.0
+734 1125 291.0
+729 698 180.0
+729 734 210.0
+729 964 376.0
+729 843 215.0
+731 694 330.0
+731 1010 221.0
+751 1100 600.0
+751 187 336.0
+751 926 115.0
+1273 1319 330.0
+1273 1225 28.0
+1273 1278 3.0
+1319 1295 390.0
+1319 1254 6.0
+1319 1217 67.0
+1295 1228 480.0
+1295 1322 6.0
+1295 1221 11.0
+1272 1268 390.0
+1272 1223 26.0
+1272 1266 5.0
+1268 1248 480.0
+1268 1233 43.0
+1268 1331 4.0
+21 134 270.0
+21 348 490.0
+21 423 290.0
+856 1089 540.0
+856 1289 94.0
+856 460 241.0
+856 488 60.0
+856 252 199.0
+856 1283 132.0
+856 427 60.0
+856 1308 86.0
+1089 865 120.0
+1089 929 60.0
+865 1088 420.0
+865 967 230.0
+1088 835 720.0
+1088 967 360.0
+1088 470 60.0
+1088 304 225.0
+835 1066 780.0
+835 1088 720.0
+835 512 60.0
+835 327 212.0
+1066 835 540.0
+1066 459 600.0
+1066 182 218.0
+1066 358 60.0
+459 358 660.0
+459 1020 600.0
+459 512 600.0
+459 270 266.0
+459 561 60.0
+1020 561 480.0
+1020 953 240.0
+1020 1058 480.0
+1020 369 60.0
+1020 201 220.0
+1058 1020 540.0
+1058 1098 660.0
+1098 1176 240.0
+1098 217 186.0
+1098 895 60.0
+1098 501 60.0
+1098 421 139.0
+1176 795 240.0
+1176 1101 78.0
+795 586 360.0
+795 1198 92.0
+586 415 360.0
+586 749 300.0
+586 477 68.0
+586 145 453.0
+749 1062 1080.0
+749 269 222.0
+749 1056 205.0
+749 415 60.0
+596 491 300.0
+596 490 240.0
+596 1181 256.0
+596 105 360.0
+491 500 1200.0
+491 535 660.0
+491 574 1800.0
+491 600 2700.0
+491 388 60.0
+491 875 102.0
+491 1112 138.0
+491 171 427.0
+535 522 360.0
+535 1090 295.0
+535 163 353.0
+535 568 60.0
+535 965 315.0
+522 407 420.0
+522 949 240.0
+522 393 60.0
+522 347 345.0
+407 500 360.0
+407 1028 480.0
+407 153 315.0
+407 411 60.0
+500 411 360.0
+500 386 540.0
+500 388 1200.0
+500 581 300.0
+500 95 227.0
+581 500 300.0
+581 550 360.0
+581 1019 293.0
+550 397 540.0
+550 581 360.0
+550 253 257.0
+550 797 60.0
+550 758 107.0
+180 206 390.0
+180 87 340.0
+180 569 275.0
+87 292 260.0
+87 180 390.0
+292 32 320.0
+292 87 210.0
+32 292 240.0
+32 53 270.0
+53 32 210.0
+53 234 340.0
+66 239 230.0
+66 108 210.0
+108 66 230.0
+108 176 150.0
+176 108 160.0
+176 150 140.0
+150 176 110.0
+150 266 200.0
+433 612 480.0
+433 368 1320.0
+433 27 202.0
+359 542 600.0
+359 466 480.0
+359 67 209.0
+466 359 480.0
+466 453 420.0
+466 184 203.0
+453 467 480.0
+453 466 420.0
+453 110 332.0
+878 1202 240.0
+878 611 70.0
+878 930 85.0
+878 1149 123.0
+878 68 401.0
+878 955 84.0
+878 896 127.0
+878 1115 349.0
+1202 1074 420.0
+1202 810 99.0
+1074 972 960.0
+1074 1156 600.0
+1074 1026 60.0
+1156 1026 600.0
+1156 779 420.0
+1156 546 89.0
+1156 285 224.0
+1156 514 60.0
+779 476 480.0
+779 385 60.0
+779 290 234.0
+1034 441 780.0
+1034 1188 60.0
+1034 601 60.0
+1034 279 213.0
+441 519 600.0
+441 436 600.0
+441 1188 780.0
+441 244 358.0
+519 1157 540.0
+519 377 900.0
+519 441 420.0
+519 175 236.0
+1157 969 360.0
+1157 1124 60.0
+969 557 420.0
+969 1119 152.0
+557 495 600.0
+557 1021 300.0
+557 377 600.0
+557 1119 420.0
+557 227 201.0
+689 662 210.0
+689 671 360.0
+689 978 205.0
+662 681 450.0
+662 689 270.0
+662 1190 188.0
+681 696 270.0
+681 662 420.0
+681 884 190.0
+696 681 270.0
+696 730 360.0
+696 977 194.0
+669 676 390.0
+669 700 300.0
+669 1174 281.0
+700 687 730.0
+700 669 310.0
+700 676 500.0
+700 721 270.0
+700 1169 195.0
+721 714 290.0
+721 700 250.0
+721 1111 191.0
+714 710 200.0
+714 721 280.0
+714 774 253.0
+710 687 340.0
+710 714 200.0
+710 1073 216.0
+687 710 330.0
+687 715 330.0
+687 700 660.0
+687 711 750.0
+687 841 192.0
+715 687 370.0
+715 711 550.0
+715 1105 238.0
+490 415 960.0
+490 460 3480.0
+490 501 1800.0
+490 459 1980.0
+490 1181 240.0
+490 354 900.0
+490 1062 60.0
+490 762 176.0
+490 1024 130.0
+490 229 256.0
+415 490 1560.0
+415 501 660.0
+415 477 360.0
+415 615 420.0
+415 749 60.0
+415 269 230.0
+415 1056 212.0
+477 1198 420.0
+477 615 300.0
+477 586 68.0
+477 145 420.0
+615 586 300.0
+615 567 720.0
+615 501 720.0
+615 337 197.0
+567 501 600.0
+567 218 186.0
+567 378 60.0
+291 112 190.0
+291 251 190.0
+251 76 200.0
+251 291 250.0
+76 83 170.0
+76 251 190.0
+83 328 200.0
+83 76 190.0
+1269 1292 150.0
+1269 1290 105.0
+1269 1204 198.0
+1269 224 52.0
+1292 1328 390.0
+1292 103 97.0
+1292 1237 93.0
+1292 1148 312.0
+1328 1279 390.0
+1328 1271 174.0
+1328 902 241.0
+1328 154 87.0
+1279 1308 420.0
+1279 1289 480.0
+1279 908 101.0
+1279 1305 46.0
+1279 233 23.0
+1289 1227 1860.0
+1289 229 1860.0
+1289 252 28.0
+1289 488 90.0
+1289 427 88.0
+1289 1308 8.0
+1289 856 94.0
+1289 1283 98.0
+1289 460 192.0
+1330 1231 420.0
+1330 1262 420.0
+1330 1294 5.0
+1330 1229 16.0
+698 726 480.0
+698 729 120.0
+698 1180 206.0
+381 461 360.0
+381 405 1560.0
+381 33 236.0
+381 398 212.0
+461 518 540.0
+461 381 360.0
+461 319 191.0
+518 152 360.0
+152 461 900.0
+152 403 240.0
+152 389 38.0
+152 181 135.0
+403 503 300.0
+503 399 660.0
+503 90 196.0
+1099 832 600.0
+1099 785 600.0
+1099 5 191.0
+1099 1208 166.0
+1099 1093 78.0
+1099 791 103.0
+1099 759 60.0
+1099 792 145.0
+398 614 1200.0
+398 400 840.0
+398 381 212.0
+398 33 236.0
+400 597 180.0
+597 372 240.0
+597 399 240.0
+372 413 960.0
+372 541 300.0
+372 434 240.0
+372 399 60.0
+372 71 247.0
+650 657 600.0
+657 656 780.0
+657 652 60.0
+656 651 660.0
+656 654 60.0
+842 1321 360.0
+842 873 1920.0
+842 1309 300.0
+842 901 60.0
+842 11 367.0
+842 127 307.0
+842 364 100.0
+873 901 1920.0
+873 1238 480.0
+873 854 480.0
+873 261 207.0
+854 873 480.0
+854 971 240.0
+854 148 275.0
+971 992 300.0
+971 198 228.0
+971 907 60.0
+992 907 300.0
+992 431 240.0
+992 266 245.0
+431 532 540.0
+431 992 240.0
+431 933 300.0
+431 107 200.0
+933 432 480.0
+933 570 66.0
+933 63 235.0
+439 616 960.0
+439 538 2100.0
+439 474 60.0
+439 61 372.0
+913 1104 120.0
+913 824 480.0
+913 725 201.0
+913 872 60.0
+1104 1077 120.0
+1104 1031 71.0
+1104 805 321.0
+1077 1063 120.0
+1077 805 71.0
+1063 1011 120.0
+1063 821 60.0
+1011 755 120.0
+1011 796 89.0
+755 870 120.0
+755 1172 60.0
+870 763 357.0
+870 997 60.0
+763 833 120.0
+763 997 377.0
+763 1002 60.0
+763 870 357.0
+833 988 240.0
+833 1162 206.0
+833 918 368.0
+988 622 120.0
+988 900 137.0
+622 769 660.0
+622 900 120.0
+622 918 660.0
+622 882 360.0
+622 1255 83.0
+622 62 214.0
+882 1038 240.0
+882 260 271.0
+882 452 371.0
+882 1059 162.0
+882 769 330.0
+1038 396 240.0
+1038 890 167.0
+396 577 300.0
+396 775 180.0
+396 493 360.0
+396 837 70.0
+396 189 186.0
+775 906 240.0
+775 1281 281.0
+775 1103 289.0
+775 994 60.0
+775 178 320.0
+775 840 310.0
+775 577 124.0
+906 993 120.0
+906 493 60.0
+906 310 361.0
+993 1069 120.0
+993 931 104.0
+1069 1123 120.0
+1069 630 258.0
+1069 548 60.0
+1123 765 180.0
+1123 748 152.0
+765 747 120.0
+765 934 60.0
+747 803 120.0
+747 1006 60.0
+747 633 376.0
+803 919 120.0
+803 982 60.0
+919 1154 420.0
+919 1023 60.0
+1154 848 420.0
+1154 1047 60.0
+848 801 360.0
+848 1184 78.0
+801 1042 420.0
+1131 1013 600.0
+1131 600 60.0
+1131 300 202.0
+1013 489 360.0
+1013 1131 600.0
+1013 205 199.0
+1013 390 60.0
+1116 1164 360.0
+1116 216 202.0
+1116 579 60.0
+1116 543 60.0
+1164 1121 360.0
+1164 1061 170.0
+1121 1061 300.0
+1121 1151 240.0
+1121 778 420.0
+1121 898 300.0
+1121 574 322.0
+1121 355 311.0
+1121 54 223.0
+1151 1191 120.0
+1151 1135 60.0
+1191 606 360.0
+1191 1067 120.0
+1191 975 149.0
+1067 799 420.0
+1067 889 120.0
+799 606 180.0
+799 889 300.0
+606 799 180.0
+606 975 300.0
+606 1112 960.0
+606 806 1020.0
+1112 739 120.0
+1112 491 138.0
+1112 388 163.0
+1112 171 489.0
+1112 875 60.0
+739 596 180.0
+739 1014 60.0
+495 955 3600.0
+495 557 600.0
+495 932 600.0
+495 259 203.0
+495 1021 60.0
+932 495 600.0
+932 1022 1200.0
+932 1141 2640.0
+932 1209 780.0
+932 719 238.0
+1209 767 660.0
+1209 932 780.0
+1209 677 241.0
+767 1129 480.0
+767 1209 660.0
+767 679 247.0
+1129 767 480.0
+1129 1078 660.0
+1129 665 254.0
+1078 947 600.0
+1078 1129 660.0
+1078 664 186.0
+693 707 780.0
+693 684 540.0
+693 836 240.0
+1008 773 600.0
+1008 917 60.0
+1008 47 216.0
+773 1208 600.0
+773 223 222.0
+773 738 60.0
+501 523 360.0
+501 621 600.0
+501 459 1980.0
+501 421 115.0
+501 217 208.0
+501 895 64.0
+501 1098 60.0
+358 561 660.0
+358 512 480.0
+358 182 227.0
+358 1066 60.0
+512 358 480.0
+512 470 600.0
+512 327 232.0
+512 835 60.0
+470 460 600.0
+470 512 900.0
+470 1088 60.0
+470 304 205.0
+846 816 900.0
+846 986 420.0
+846 1153 660.0
+846 691 192.0
+816 756 540.0
+816 1153 540.0
+816 707 218.0
+756 836 1020.0
+756 1050 600.0
+756 1170 123.0
+756 712 294.0
+868 977 600.0
+868 730 242.0
+977 884 900.0
+977 868 600.0
+977 696 194.0
+884 1190 900.0
+884 977 900.0
+884 681 190.0
+1190 884 900.0
+1190 978 720.0
+1190 662 188.0
+978 1190 720.0
+978 952 600.0
+978 689 205.0
+952 1084 900.0
+952 1060 600.0
+952 978 600.0
+952 1203 1320.0
+952 671 222.0
+899 863 360.0
+899 30 212.0
+863 899 360.0
+863 834 420.0
+863 640 248.0
+834 1150 720.0
+834 1065 60.0
+834 632 203.0
+1150 1018 840.0
+1150 1137 60.0
+1150 636 227.0
+1018 1137 840.0
+1018 815 600.0
+1018 628 296.0
+815 1018 600.0
+815 577 1140.0
+815 633 224.0
+452 622 480.0
+452 866 420.0
+452 260 251.0
+452 769 60.0
+452 882 371.0
+918 622 660.0
+918 872 600.0
+918 688 195.0
+918 833 368.0
+918 1162 362.0
+328 83 140.0
+668 675 210.0
+668 787 198.0
+668 880 188.0
+675 668 270.0
+675 682 240.0
+675 798 210.0
+675 1141 434.0
+675 1076 222.0
+682 733 210.0
+682 675 270.0
+682 871 188.0
+682 966 284.0
+733 682 780.0
+733 690 1170.0
+733 911 213.0
+690 733 870.0
+690 699 450.0
+690 1106 203.0
+699 690 480.0
+699 659 450.0
+699 1167 184.0
+659 68 3150.0
+659 699 330.0
+659 227 750.0
+659 1022 197.0
+1181 1014 180.0
+1181 596 256.0
+1181 105 396.0
+1014 875 120.0
+1014 739 60.0
+875 852 180.0
+875 606 840.0
+875 1112 60.0
+875 388 121.0
+875 491 102.0
+875 171 494.0
+889 975 120.0
+889 1067 120.0
+975 1135 120.0
+975 1191 149.0
+1135 1121 300.0
+1135 1151 60.0
+1061 1140 240.0
+1061 579 360.0
+1061 1164 170.0
+764 489 360.0
+764 445 60.0
+764 17 242.0
+1084 955 3000.0
+1084 952 900.0
+1084 914 900.0
+1084 704 200.0
+1084 1160 142.0
+404 383 360.0
+404 626 540.0
+404 362 60.0
+404 430 60.0
+404 271 208.0
+626 362 540.0
+626 478 660.0
+626 235 205.0
+626 560 69.0
+478 626 660.0
+478 481 660.0
+478 357 60.0
+478 334 207.0
+532 585 480.0
+532 431 540.0
+532 2 235.0
+585 532 540.0
+585 534 480.0
+585 1316 60.0
+585 215 220.0
+1283 226 1620.0
+1283 1305 360.0
+1283 856 132.0
+1283 1308 96.0
+1283 1289 98.0
+1283 427 130.0
+1283 252 75.0
+1283 488 121.0
+1283 460 288.0
+719 259 450.0
+719 677 390.0
+719 932 238.0
+677 679 450.0
+677 719 450.0
+677 1209 241.0
+679 665 240.0
+679 677 540.0
+679 767 247.0
+665 664 270.0
+665 679 270.0
+665 1129 254.0
+664 665 270.0
+664 667 210.0
+664 1078 186.0
+908 902 900.0
+908 488 720.0
+908 1305 148.0
+908 1279 101.0
+908 233 213.0
+902 908 720.0
+902 1082 540.0
+902 1328 241.0
+902 1271 88.0
+902 154 233.0
+1082 902 720.0
+1082 1148 720.0
+1148 902 900.0
+1148 1204 900.0
+1148 893 1020.0
+1148 1082 600.0
+1148 103 291.0
+1148 1292 312.0
+1148 1237 228.0
+1204 1148 900.0
+1204 1197 1020.0
+1204 224 226.0
+1204 1290 101.0
+1204 1269 198.0
+354 394 1500.0
+354 625 3600.0
+354 545 3000.0
+354 760 60.0
+354 789 242.0
+354 311 285.0
+354 138 344.0
+354 809 273.0
+354 771 245.0
+730 696 360.0
+730 868 242.0
+1213 879 170.0
+1213 743 60.0
+1213 818 7.0
+1103 1296 1560.0
+1103 1302 1200.0
+1103 994 284.0
+1103 1281 9.0
+1103 577 166.0
+1103 178 45.0
+1103 775 289.0
+1103 840 72.0
+388 596 420.0
+388 1112 163.0
+388 875 121.0
+388 171 444.0
+388 491 60.0
+759 1179 300.0
+759 1099 60.0
+759 791 66.0
+759 1093 60.0
+759 792 167.0
+759 1208 192.0
+759 5 187.0
+1179 820 300.0
+1179 888 81.0
+1179 927 60.0
+1179 855 86.0
+820 826 120.0
+820 742 94.0
+820 1048 66.0
+820 1095 88.0
+826 1102 120.0
+826 819 105.0
+826 874 166.0
+826 828 101.0
+1102 1070 420.0
+1102 761 60.0
+1102 936 74.0
+1102 974 71.0
+1133 962 240.0
+1133 1144 60.0
+1133 1053 60.0
+1133 1036 62.0
+962 922 300.0
+962 817 109.0
+962 827 60.0
+962 983 66.0
+922 1210 240.0
+922 1128 60.0
+922 1075 60.0
+922 1177 63.0
+1210 542 120.0
+1210 825 274.0
+1210 829 60.0
+1210 1196 276.0
+1210 766 292.0
+1305 1271 420.0
+1305 233 23.0
+1305 1279 46.0
+1305 908 148.0
+1271 1237 540.0
+1271 154 87.0
+1271 902 88.0
+1271 1328 174.0
+1237 1290 180.0
+1237 103 71.0
+1237 1148 228.0
+1237 1292 93.0
+1290 226 600.0
+1290 1204 101.0
+1290 1269 105.0
+1290 224 52.0
+427 584 180.0
+427 1283 130.0
+427 856 60.0
+427 488 60.0
+427 1308 80.0
+427 460 235.0
+427 1289 88.0
+427 252 196.0
+584 524 180.0
+584 588 60.0
+524 578 420.0
+524 539 60.0
+578 465 360.0
+578 539 180.0
+578 562 60.0
+465 578 360.0
+465 463 420.0
+465 437 60.0
+465 41 188.0
+463 408 720.0
+463 137 182.0
+463 521 60.0
+463 455 60.0
+408 455 720.0
+408 496 1200.0
+408 440 60.0
+408 8 201.0
+464 605 360.0
+464 624 300.0
+464 638 369.0
+605 464 360.0
+605 653 360.0
+605 551 360.0
+653 1249 480.0
+653 544 600.0
+653 513 60.0
+653 1325 133.0
+653 642 406.0
+544 536 960.0
+544 513 600.0
+544 40 259.0
+536 405 900.0
+536 544 960.0
+536 312 249.0
+1051 910 300.0
+1051 1155 180.0
+1051 496 60.0
+1051 401 60.0
+1051 81 190.0
+1155 910 120.0
+1155 382 189.0
+1155 428 369.0
+1155 202 279.0
+1155 449 205.0
+1155 1216 60.0
+1155 444 342.0
+910 845 180.0
+910 1183 180.0
+910 1165 85.0
+845 1165 180.0
+845 853 300.0
+845 19 185.0
+845 472 177.0
+845 1183 60.0
+853 845 300.0
+853 1000 240.0
+853 752 60.0
+853 351 60.0
+853 552 60.0
+853 379 60.0
+853 91 216.0
+1000 1064 180.0
+1000 814 109.0
+1064 990 120.0
+1064 1161 60.0
+990 494 180.0
+990 794 60.0
+494 537 480.0
+494 213 239.0
+494 353 60.0
+537 355 300.0
+537 1164 180.0
+537 363 138.0
+537 1140 110.0
+537 219 262.0
+806 1194 180.0
+806 1083 60.0
+1194 762 480.0
+1194 951 60.0
+422 601 1200.0
+422 610 900.0
+422 604 1200.0
+422 877 122.0
+422 79 235.0
+422 831 96.0
+610 436 600.0
+610 508 600.0
+610 920 60.0
+610 70 240.0
+610 885 60.0
+436 610 600.0
+436 441 600.0
+436 258 221.0
+377 519 900.0
+377 557 600.0
+377 115 242.0
+667 664 210.0
+667 947 199.0
+667 1081 198.0
+711 687 650.0
+711 715 450.0
+711 881 294.0
+280 165 120.0
+914 1084 900.0
+914 1193 900.0
+914 1080 360.0
+914 981 360.0
+914 726 245.0
+1080 912 300.0
+1080 685 308.0
+1080 1072 60.0
+912 964 360.0
+912 734 278.0
+912 1125 60.0
+964 1180 180.0
+964 729 376.0
+964 843 200.0
+450 1016 240.0
+450 432 360.0
+450 35 225.0
+397 606 900.0
+397 550 540.0
+397 26 183.0
+1062 1056 660.0
+1062 1086 120.0
+1062 490 60.0
+1062 229 251.0
+1062 762 193.0
+1062 1024 144.0
+1056 477 300.0
+1056 415 212.0
+1056 269 193.0
+1056 749 205.0
+1198 1101 240.0
+1198 795 92.0
+1101 895 360.0
+1101 1176 78.0
+895 1147 360.0
+895 1168 300.0
+895 1058 660.0
+895 217 236.0
+895 1098 60.0
+895 501 64.0
+895 421 179.0
+1147 523 300.0
+1147 1109 95.0
+523 406 600.0
+523 844 300.0
+523 421 960.0
+523 1109 240.0
+523 92 187.0
+844 861 300.0
+844 523 360.0
+844 237 193.0
+844 406 60.0
+861 772 180.0
+861 1052 60.0
+772 1052 180.0
+772 1158 300.0
+772 356 60.0
+772 97 226.0
+1158 1134 60.0
+1158 1173 60.0
+1134 619 240.0
+1134 1122 60.0
+619 903 180.0
+619 369 720.0
+619 82 396.0
+619 370 60.0
+903 1020 240.0
+903 953 60.0
+1309 1291 600.0
+1309 1327 114.0
+1309 56 428.0
+1291 653 300.0
+1291 1243 60.0
+1249 1286 120.0
+1249 1252 129.0
+1286 1236 300.0
+1286 1280 60.0
+1236 614 300.0
+1236 1251 60.0
+1299 553 600.0
+1299 273 195.0
+1275 1313 420.0
+1275 553 480.0
+1313 1316 360.0
+1313 1270 60.0
+1313 534 319.0
+1316 447 120.0
+1316 1270 360.0
+1316 585 60.0
+1316 215 193.0
+1301 933 300.0
+1301 1312 106.0
+1193 802 780.0
+1193 914 900.0
+1193 663 248.0
+802 559 600.0
+802 1193 780.0
+802 838 60.0
+802 666 215.0
+559 955 2400.0
+559 453 480.0
+559 1032 480.0
+559 157 237.0
+559 467 86.0
+559 897 254.0
+558 367 300.0
+558 111 267.0
+558 395 60.0
+561 1066 540.0
+561 369 600.0
+561 270 274.0
+561 459 60.0
+967 929 180.0
+967 865 230.0
+929 856 480.0
+929 1089 60.0
+513 605 360.0
+513 1325 108.0
+513 653 60.0
+513 642 436.0
+624 442 360.0
+624 364 1200.0
+624 598 960.0
+624 1310 300.0
+624 1307 80.0
+624 286 349.0
+598 573 840.0
+598 1300 206.0
+598 649 209.0
+598 1303 190.0
+573 364 360.0
+573 901 360.0
+573 1321 60.0
+573 634 278.0
+930 789 180.0
+930 809 180.0
+930 68 347.0
+930 896 132.0
+930 1149 60.0
+930 611 154.0
+930 878 85.0
+930 955 60.0
+930 1115 247.0
+809 529 360.0
+809 311 411.0
+809 771 200.0
+809 760 279.0
+809 138 150.0
+809 354 273.0
+809 68 201.0
+809 789 155.0
+529 1091 240.0
+529 611 720.0
+529 1071 117.0
+529 281 226.0
+1091 1071 240.0
+1091 1033 240.0
+1033 813 300.0
+1033 869 60.0
+1033 368 89.0
+1033 4 312.0
+813 970 180.0
+813 1057 60.0
+970 1212 180.0
+970 1003 60.0
+1212 792 420.0
+1212 736 70.0
+792 736 420.0
+792 785 600.0
+792 1093 152.0
+792 1099 145.0
+792 759 167.0
+792 5 193.0
+792 791 199.0
+792 1208 60.0
+973 822 60.0
+973 804 60.0
+822 941 240.0
+822 1068 60.0
+941 807 240.0
+941 887 83.0
+807 963 420.0
+807 1027 60.0
+963 958 120.0
+963 859 60.0
+958 942 360.0
+958 892 60.0
+942 968 360.0
+942 892 300.0
+942 322 205.0
+968 942 360.0
+968 935 420.0
+1218 1222 540.0
+1222 1230 780.0
+1222 1218 600.0
+1230 1226 810.0
+1230 1222 780.0
+1226 1230 840.0
+1226 1245 840.0
+1226 1326 810.0
+1226 105 3600.0
+1326 105 2820.0
+1326 1245 12.0
+1326 498 94.0
+1326 165 3.0
+1308 229 1620.0
+1308 856 86.0
+1308 1283 96.0
+1308 252 22.0
+1308 460 196.0
+1308 1289 8.0
+1308 427 80.0
+1308 488 81.0
+457 394 240.0
+457 89 311.0
+457 528 60.0
+625 354 3600.0
+625 410 300.0
+625 278 212.0
+893 1148 840.0
+893 986 660.0
+893 701 213.0
+986 893 480.0
+986 846 660.0
+986 703 203.0
+1153 816 720.0
+1153 846 480.0
+1153 724 193.0
+1050 836 720.0
+1050 1170 360.0
+1050 684 263.0
+488 562 840.0
+488 521 1200.0
+488 470 540.0
+488 490 6600.0
+488 1308 81.0
+488 1289 90.0
+488 460 246.0
+488 427 60.0
+488 252 195.0
+488 1283 121.0
+488 856 60.0
+1087 1184 600.0
+1087 1042 71.0
+1087 776 193.0
+1087 686 343.0
+1184 1047 360.0
+1184 848 78.0
+1047 1023 420.0
+1047 1154 60.0
+1023 982 120.0
+1023 919 60.0
+982 1006 120.0
+982 803 60.0
+1006 934 120.0
+1006 633 356.0
+1006 747 60.0
+934 748 120.0
+934 765 60.0
+748 548 120.0
+748 1123 152.0
+548 577 600.0
+548 867 480.0
+548 384 480.0
+548 493 360.0
+548 931 120.0
+548 1069 60.0
+548 630 218.0
+931 493 120.0
+931 993 104.0
+493 994 300.0
+493 396 360.0
+493 548 360.0
+493 906 60.0
+493 310 390.0
+994 837 240.0
+994 840 295.0
+994 775 60.0
+994 178 323.0
+994 577 135.0
+994 1103 284.0
+994 1281 275.0
+837 890 240.0
+837 396 70.0
+837 189 223.0
+890 1059 240.0
+890 1038 167.0
+1059 622 360.0
+1059 882 162.0
+900 1162 300.0
+900 988 137.0
+1162 1002 120.0
+1162 833 206.0
+1162 918 362.0
+1002 997 60.0
+1002 763 60.0
+997 1172 120.0
+997 870 60.0
+997 763 377.0
+1172 796 180.0
+1172 755 60.0
+796 821 120.0
+796 1011 89.0
+821 805 120.0
+821 1063 60.0
+805 1031 120.0
+805 1104 321.0
+805 1077 71.0
+1031 913 180.0
+1031 1104 71.0
+1311 1284 660.0
+1311 1304 210.0
+1311 1224 120.0
+1284 105 1920.0
+1284 1315 7.0
+1284 193 7.0
+1284 603 76.0
+1284 1298 31.0
+1197 793 1500.0
+1197 1204 1020.0
+1197 1054 660.0
+1197 226 195.0
+824 913 480.0
+824 1195 840.0
+824 728 191.0
+824 1130 60.0
+1195 824 840.0
+1195 1039 660.0
+1195 718 255.0
+1195 1152 60.0
+1039 1118 720.0
+1039 1195 660.0
+1039 672 183.0
+1039 857 60.0
+829 1075 240.0
+829 1196 253.0
+829 1210 60.0
+829 766 318.0
+829 825 251.0
+1075 817 300.0
+1075 1128 76.0
+1075 1177 77.0
+1075 922 60.0
+817 1144 240.0
+817 827 60.0
+817 962 109.0
+817 983 60.0
+1144 737 240.0
+1144 1036 60.0
+1144 1133 60.0
+1144 1053 60.0
+737 761 420.0
+737 1041 120.0
+737 939 115.0
+737 944 122.0
+737 1070 113.0
+761 874 120.0
+761 974 87.0
+761 936 87.0
+761 1102 60.0
+874 1048 120.0
+874 826 166.0
+874 828 66.0
+874 819 62.0
+1048 927 300.0
+1048 742 63.0
+1048 1095 64.0
+1048 820 66.0
+927 759 300.0
+927 888 71.0
+927 855 76.0
+927 1179 60.0
+351 365 420.0
+351 91 189.0
+351 552 60.0
+351 752 60.0
+351 853 60.0
+351 379 60.0
+365 366 360.0
+365 618 73.0
+366 537 480.0
+366 618 360.0
+366 34 216.0
+355 363 300.0
+355 621 720.0
+355 54 376.0
+355 1121 311.0
+355 574 444.0
+621 421 600.0
+621 355 720.0
+621 1107 60.0
+621 155 222.0
+421 490 2400.0
+421 415 1200.0
+421 378 300.0
+421 501 115.0
+421 895 179.0
+421 217 201.0
+421 1098 139.0
+378 615 1080.0
+378 567 60.0
+378 218 201.0
+1293 229 2460.0
+1293 735 25.0
+1293 1277 51.0
+1293 793 154.0
+542 433 480.0
+542 166 189.0
+542 612 96.0
+542 766 217.0
+542 1007 73.0
+542 891 95.0
+368 529 780.0
+368 4 302.0
+368 869 145.0
+368 1033 89.0
+1024 951 360.0
+1024 490 130.0
+1024 229 326.0
+1024 762 124.0
+1024 1062 144.0
+951 1083 120.0
+951 1194 60.0
+1083 606 1020.0
+1083 806 60.0
+1140 353 480.0
+1140 537 110.0
+1140 219 274.0
+1140 363 60.0
+353 502 540.0
+353 794 180.0
+353 213 254.0
+353 494 60.0
+794 1161 180.0
+794 990 60.0
+1161 814 180.0
+1161 1064 60.0
+814 853 240.0
+814 752 240.0
+814 1000 109.0
+1165 1051 300.0
+1165 1216 120.0
+1165 910 85.0
+1216 1051 180.0
+1216 202 262.0
+1216 449 183.0
+1216 428 346.0
+1216 1155 60.0
+1216 382 167.0
+1216 444 319.0
+872 918 600.0
+872 1130 420.0
+872 725 232.0
+872 913 60.0
+769 577 660.0
+769 452 60.0
+769 882 330.0
+769 260 208.0
+1137 1065 720.0
+1137 1150 60.0
+1137 636 194.0
+1065 863 420.0
+1065 834 60.0
+1065 632 195.0
+947 1078 600.0
+947 667 199.0
+947 1081 60.0
+402 591 480.0
+402 497 66.0
+402 55 199.0
+402 589 60.0
+591 420 360.0
+591 595 60.0
+591 114 209.0
+591 517 274.0
+591 511 234.0
+1219 1323 690.0
+1219 1253 270.0
+1219 1267 21.0
+1219 1287 20.0
+363 353 600.0
+363 366 480.0
+363 1140 60.0
+363 219 281.0
+363 537 138.0
+502 494 540.0
+502 552 600.0
+502 15 201.0
+552 502 600.0
+552 472 360.0
+552 351 60.0
+552 379 60.0
+552 91 199.0
+552 752 60.0
+552 853 60.0
+472 552 360.0
+472 401 600.0
+472 845 177.0
+472 19 352.0
+472 1183 205.0
+1130 1152 300.0
+1130 872 360.0
+1130 824 60.0
+1130 728 199.0
+1152 857 540.0
+1152 1130 660.0
+1152 718 279.0
+1152 1195 60.0
+857 1118 660.0
+857 1152 600.0
+857 1039 60.0
+857 672 200.0
+1180 843 180.0
+1180 698 206.0
+843 1125 360.0
+843 729 215.0
+843 964 200.0
+1125 1072 300.0
+1125 912 60.0
+1125 734 291.0
+1072 914 360.0
+1072 1080 60.0
+1072 685 281.0
+776 577 2220.0
+776 830 840.0
+776 1087 193.0
+776 1042 251.0
+776 686 324.0
+830 1079 420.0
+830 776 840.0
+830 709 199.0
+1079 830 420.0
+1079 928 840.0
+1079 660 186.0
+928 1163 360.0
+928 1079 840.0
+928 692 217.0
+1163 839 240.0
+1163 928 360.0
+1163 661 186.0
+839 1163 240.0
+839 867 480.0
+839 673 341.0
+867 839 480.0
+867 548 300.0
+867 702 200.0
+866 923 720.0
+866 769 420.0
+866 717 228.0
+923 768 600.0
+923 866 720.0
+923 683 257.0
+768 923 600.0
+768 860 300.0
+768 678 210.0
+789 1009 480.0
+789 138 69.0
+789 771 60.0
+789 311 256.0
+789 760 256.0
+789 809 155.0
+789 354 242.0
+1009 1214 420.0
+1009 1044 60.0
+1214 862 960.0
+1214 995 99.0
+862 958 240.0
+862 849 141.0
+369 370 540.0
+369 459 600.0
+369 1020 60.0
+369 201 200.0
+370 1122 240.0
+370 356 660.0
+370 82 373.0
+370 619 60.0
+356 619 540.0
+356 406 600.0
+356 97 248.0
+356 772 60.0
+406 523 420.0
+406 356 660.0
+406 237 189.0
+406 844 60.0
+547 429 120.0
+547 159 200.0
+547 510 60.0
+429 371 180.0
+429 527 60.0
+371 593 480.0
+371 362 360.0
+371 383 60.0
+362 602 240.0
+362 496 600.0
+362 404 60.0
+362 430 60.0
+362 271 188.0
+602 382 300.0
+602 587 92.0
+602 533 92.0
+602 238 299.0
+602 593 60.0
+382 496 300.0
+382 428 195.0
+382 444 166.0
+382 449 60.0
+382 202 281.0
+382 1216 167.0
+382 1155 189.0
+475 462 600.0
+475 425 480.0
+475 149 196.0
+604 385 480.0
+604 96 217.0
+604 476 60.0
+1253 1264 270.0
+1253 1259 25.0
+1264 1265 240.0
+1264 1274 50.0
+1265 1323 300.0
+1265 1317 10.0
+1318 1329 300.0
+1318 1263 300.0
+1318 1261 89.0
+1321 1247 240.0
+1321 634 251.0
+1321 573 60.0
+1247 1303 180.0
+1247 1276 126.0
+1303 624 240.0
+1303 598 190.0
+1303 1300 60.0
+1303 649 363.0
+1310 1242 60.0
+1310 1297 60.0
+1242 1256 600.0
+1242 1288 60.0
+1242 295 186.0
+1256 1314 240.0
+1256 1246 184.0
+1314 1320 180.0
+1314 1244 60.0
+1320 1250 300.0
+1320 1258 60.0
+1250 1258 300.0
+1250 1240 240.0
+1250 164 205.0
+1240 1306 300.0
+1240 275 270.0
+1240 1257 86.0
+1306 1238 360.0
+1306 1241 128.0
+1238 873 480.0
+1238 1241 360.0
+1238 131 267.0
+386 500 540.0
+386 499 300.0
+386 144 378.0
+386 957 60.0
+499 386 300.0
+499 957 240.0
+499 486 360.0
+499 1205 60.0
+499 199 220.0
+486 499 360.0
+486 574 540.0
+486 778 60.0
+486 118 193.0
+601 604 600.0
+601 508 600.0
+601 1034 60.0
+601 279 193.0
+601 1188 60.0
+508 601 600.0
+508 610 600.0
+508 16 184.0
+778 499 240.0
+778 1121 420.0
+778 118 204.0
+778 486 60.0
+957 1205 240.0
+957 1120 240.0
+957 386 60.0
+957 144 369.0
+1120 758 180.0
+1120 894 91.0
+758 1019 240.0
+758 550 107.0
+758 253 210.0
+758 797 60.0
+1019 1113 180.0
+1019 851 79.0
+1019 581 293.0
+1113 1037 180.0
+1113 876 104.0
+1037 411 480.0
+1037 1028 60.0
+411 393 420.0
+411 1189 60.0
+411 407 60.0
+411 153 293.0
+1189 393 240.0
+1189 949 61.0
+393 1090 300.0
+393 568 360.0
+393 522 60.0
+393 347 323.0
+1090 808 180.0
+1090 535 295.0
+1090 568 330.0
+1090 965 60.0
+808 1112 180.0
+808 852 87.0
+613 620 540.0
+613 534 199.0
+613 249 217.0
+620 392 240.0
+620 613 540.0
+620 207 217.0
+620 469 60.0
+392 387 180.0
+392 302 410.0
+392 375 60.0
+392 417 376.0
+387 530 360.0
+387 468 60.0
+387 484 105.0
+387 220 359.0
+530 607 300.0
+530 416 60.0
+530 515 60.0
+530 98 198.0
+607 565 600.0
+607 391 60.0
+607 325 194.0
+565 391 420.0
+565 556 300.0
+565 480 226.0
+565 42 200.0
+556 483 240.0
+556 438 60.0
+556 179 271.0
+556 564 87.0
+483 372 240.0
+483 434 77.0
+483 541 228.0
+483 549 256.0
+568 388 660.0
+568 163 327.0
+568 1090 330.0
+568 535 60.0
+568 965 351.0
+1016 570 480.0
+1016 432 106.0
+1016 7 244.0
+1312 447 240.0
+1312 1301 106.0
+1270 1275 420.0
+1270 1313 60.0
+1270 534 312.0
+1251 1280 300.0
+1251 1236 60.0
+1280 1252 120.0
+1280 1286 60.0
+1252 1325 480.0
+1252 1249 129.0
+1325 1243 300.0
+1325 642 510.0
+1325 653 133.0
+1325 513 108.0
+1243 1327 600.0
+1243 1291 60.0
+1327 901 300.0
+1327 1309 114.0
+1327 56 419.0
+449 533 300.0
+449 382 60.0
+449 444 155.0
+449 202 279.0
+449 1216 183.0
+449 428 184.0
+449 1155 205.0
+533 404 240.0
+533 593 110.0
+533 587 60.0
+533 238 212.0
+533 602 92.0
+527 547 120.0
+527 429 60.0
+935 968 240.0
+935 262 236.0
+935 740 60.0
+892 859 120.0
+892 849 240.0
+892 958 60.0
+849 995 1020.0
+849 862 141.0
+995 1044 480.0
+995 1214 99.0
+1044 760 480.0
+1044 1009 60.0
+760 930 180.0
+760 789 256.0
+760 138 358.0
+760 354 60.0
+760 809 279.0
+760 771 260.0
+760 311 299.0
+907 854 240.0
+907 971 60.0
+907 198 212.0
+1021 557 300.0
+1021 259 202.0
+1021 495 60.0
+1119 1124 360.0
+1119 969 152.0
+1124 519 540.0
+1124 1157 60.0
+1188 604 420.0
+1188 1034 60.0
+1188 601 60.0
+1188 279 207.0
+1026 810 420.0
+1026 1074 60.0
+810 1149 240.0
+810 896 240.0
+810 1202 99.0
+417 484 300.0
+417 392 376.0
+484 416 480.0
+484 468 93.0
+484 387 105.0
+484 220 322.0
+416 391 420.0
+416 530 60.0
+416 98 233.0
+416 515 60.0
+391 515 360.0
+391 480 660.0
+391 325 202.0
+391 607 60.0
+480 564 420.0
+480 565 226.0
+480 42 196.0
+564 471 360.0
+564 179 203.0
+564 556 87.0
+564 438 80.0
+471 373 360.0
+471 172 244.0
+471 507 64.0
+373 414 300.0
+373 451 420.0
+373 583 60.0
+373 194 209.0
+451 402 420.0
+451 316 334.0
+618 379 420.0
+618 365 73.0
+379 401 1020.0
+379 351 60.0
+379 853 60.0
+379 552 60.0
+379 752 60.0
+379 91 202.0
+1304 1282 240.0
+1304 1232 30.0
+1282 1284 420.0
+1282 1220 8.0
+1241 1257 300.0
+1241 1306 128.0
+1257 1250 240.0
+1257 1240 86.0
+1257 275 191.0
+1258 1244 180.0
+1258 318 369.0
+1258 1320 60.0
+1244 1246 180.0
+1244 1314 60.0
+1246 1288 600.0
+1246 1256 184.0
+1288 1297 60.0
+1288 295 204.0
+1288 1242 60.0
+1297 1307 360.0
+1297 1310 60.0
+1307 1300 180.0
+1307 624 80.0
+1307 286 365.0
+1300 1276 240.0
+1300 1303 60.0
+1300 649 379.0
+1300 598 206.0
+1276 573 240.0
+1276 1247 126.0
+911 871 360.0
+911 966 300.0
+911 1106 1800.0
+911 733 213.0
+966 1141 300.0
+966 911 300.0
+966 682 284.0
+966 871 96.0
+1141 787 480.0
+1141 966 300.0
+1141 1076 296.0
+1141 798 283.0
+1141 675 434.0
+860 1174 780.0
+860 961 720.0
+860 577 1560.0
+860 768 300.0
+860 1169 1020.0
+860 676 235.0
+1174 860 840.0
+1174 1169 480.0
+1174 669 281.0
+1169 841 900.0
+1169 1111 480.0
+1169 1174 480.0
+1169 700 195.0
+1111 1169 480.0
+1111 774 720.0
+1111 721 191.0
+774 1073 480.0
+774 1111 720.0
+774 714 253.0
+1073 841 780.0
+1073 774 480.0
+1073 710 216.0
+841 1105 720.0
+841 881 1800.0
+841 1073 780.0
+841 687 192.0
+1105 841 720.0
+1105 881 840.0
+1105 715 238.0
+1060 1203 900.0
+1060 952 600.0
+1060 697 295.0
+1203 1035 1140.0
+1203 1060 720.0
+1203 1010 2220.0
+1203 658 250.0
+1035 1203 1200.0
+1035 998 1080.0
+1035 716 184.0
+998 1035 660.0
+998 741 480.0
+998 723 248.0
+741 998 900.0
+741 1010 540.0
+741 694 525.0
+880 798 240.0
+880 787 60.0
+880 668 188.0
+798 871 420.0
+798 1141 283.0
+798 1076 60.0
+798 675 210.0
+871 1076 360.0
+871 911 420.0
+871 682 188.0
+871 966 96.0
+1315 1220 510.0
+1315 193 8.0
+1315 603 70.0
+1315 1284 7.0
+1315 1298 28.0
+551 624 600.0
+1010 741 600.0
+1010 731 221.0
+1086 780 180.0
+1086 915 60.0
+780 754 540.0
+780 1117 60.0
+754 1200 240.0
+754 782 60.0
+1200 1192 180.0
+1200 864 77.0
+1192 885 120.0
+1192 1187 60.0
+885 1146 180.0
+885 920 60.0
+885 610 60.0
+885 70 286.0
+1146 946 180.0
+946 811 180.0
+811 877 360.0
+811 1159 60.0
+877 783 360.0
+877 79 202.0
+877 831 60.0
+877 422 122.0
+783 831 540.0
+783 1138 420.0
+783 265 202.0
+1138 1046 240.0
+1138 203 210.0
+1138 1206 60.0
+1046 1092 120.0
+1046 753 60.0
+1092 904 120.0
+1092 886 60.0
+904 770 240.0
+904 1142 60.0
+770 1199 300.0
+770 1142 120.0
+770 190 217.0
+1199 925 360.0
+1199 1207 60.0
+925 1094 660.0
+925 1207 360.0
+925 122 208.0
+1094 1030 480.0
+1094 925 660.0
+1094 324 277.0
+1183 752 300.0
+1183 845 60.0
+1183 19 215.0
+1183 472 205.0
+752 845 300.0
+752 1000 240.0
+752 91 223.0
+752 853 60.0
+752 379 60.0
+752 351 60.0
+752 552 60.0
+898 1107 420.0
+898 858 60.0
+1107 1139 180.0
+1107 858 300.0
+1107 155 228.0
+1107 621 60.0
+1139 1098 360.0
+1139 1168 60.0
+467 802 780.0
+467 897 171.0
+467 559 86.0
+467 157 211.0
+1329 1281 1260.0
+1329 840 1320.0
+1329 1118 243.0
+1329 1302 67.0
+1329 727 115.0
+1329 1263 294.0
+1076 880 240.0
+1076 675 222.0
+1076 1141 296.0
+1076 798 60.0
+593 444 300.0
+593 602 60.0
+593 238 317.0
+593 587 110.0
+593 533 110.0
+444 401 600.0
+444 1155 342.0
+444 382 166.0
+444 202 226.0
+444 1216 319.0
+444 428 60.0
+444 449 155.0
+474 458 360.0
+474 538 2100.0
+474 439 60.0
+474 61 358.0
+1245 1226 750.0
+1245 105 2490.0
+1245 498 90.0
+1245 1326 12.0
+1245 165 9.0
+462 361 420.0
+462 475 600.0
+361 462 420.0
+361 442 420.0
+361 225 207.0
+442 361 420.0
+442 624 360.0
+442 289 199.0
+599 448 180.0
+599 307 195.0
+448 482 360.0
+448 236 231.0
+448 479 76.0
+482 479 360.0
+482 623 360.0
+482 255 200.0
+623 482 360.0
+623 504 360.0
+623 73 204.0
+504 384 720.0
+504 525 61.0
+504 72 219.0
+384 548 480.0
+384 525 720.0
+384 309 189.0
+1022 1167 900.0
+1022 955 3600.0
+1022 659 197.0
+1167 1022 900.0
+1167 1106 900.0
+1167 699 184.0
+1106 1167 900.0
+1106 911 1800.0
+1106 690 203.0
+896 1202 240.0
+896 955 127.0
+896 1115 350.0
+896 1149 138.0
+896 878 127.0
+896 611 175.0
+896 68 471.0
+896 930 132.0
+972 1136 360.0
+972 272 225.0
+972 1132 60.0
+1136 897 480.0
+1136 1032 96.0
+897 838 600.0
+897 559 254.0
+897 467 171.0
+897 157 230.0
+838 1145 420.0
+838 666 254.0
+838 802 60.0
+1145 1025 240.0
+1145 786 60.0
+1025 1186 360.0
+1025 945 110.0
+1186 991 240.0
+1186 883 138.0
+991 790 600.0
+991 777 108.0
+790 777 600.0
+790 1175 600.0
+790 1030 60.0
+790 136 333.0
+1175 1160 780.0
+1175 981 69.0
+1030 1094 480.0
+1030 790 60.0
+1030 136 357.0
+1207 770 300.0
+1207 1199 60.0
+1142 886 120.0
+1142 904 60.0
+886 753 180.0
+886 1092 60.0
+753 1206 240.0
+753 1046 60.0
+1206 783 480.0
+1206 1138 60.0
+1206 203 199.0
+831 1159 300.0
+831 877 60.0
+831 79 189.0
+831 422 96.0
+1159 920 240.0
+1159 811 60.0
+920 1187 300.0
+920 610 60.0
+920 885 60.0
+920 70 240.0
+1187 864 300.0
+1187 1192 60.0
+864 782 180.0
+864 1200 77.0
+782 1117 420.0
+782 754 60.0
+1117 915 240.0
+1117 780 60.0
+915 1062 240.0
+915 1086 60.0
+915 229 377.0
+1118 857 780.0
+1118 1039 720.0
+1118 1302 310.0
+1118 1329 243.0
+1118 1263 55.0
+1118 727 228.0
+389 152 38.0
+389 181 206.0
+455 465 420.0
+455 137 193.0
+455 463 60.0
+455 521 60.0
+539 588 180.0
+539 524 60.0
+588 427 420.0
+588 584 60.0
+999 1005 240.0
+940 937 120.0
+940 980 60.0
+937 746 120.0
+937 948 60.0
+746 984 180.0
+746 1043 60.0
+1001 812 180.0
+1001 1049 60.0
+812 1081 900.0
+812 784 105.0
+1331 1266 420.0
+1331 1268 4.0
+1331 1233 43.0
+1266 1260 360.0
+1266 1228 570.0
+1266 1272 5.0
+1266 1223 24.0
+1260 1228 420.0
+1260 1235 19.0
+1260 1285 6.0
+961 1108 540.0
+961 680 201.0
+1108 788 180.0
+788 959 360.0
+788 705 219.0
+959 594 540.0
+959 722 241.0
+836 1050 660.0
+836 693 240.0
+1170 816 360.0
+1170 712 290.0
+1170 756 123.0
+1160 981 780.0
+1160 704 203.0
+1160 1084 142.0
+981 790 600.0
+981 726 379.0
+981 914 360.0
+981 1175 69.0
+777 883 240.0
+777 991 108.0
+883 945 360.0
+883 1186 138.0
+945 786 240.0
+945 1025 110.0
+786 802 420.0
+786 1145 60.0
+1032 1132 360.0
+1032 1136 96.0
+1132 1026 960.0
+1132 272 231.0
+1132 972 60.0
+852 965 180.0
+852 808 87.0
+965 522 300.0
+965 568 351.0
+965 535 315.0
+965 1090 60.0
+949 407 60.0
+949 1189 61.0
+1028 876 240.0
+1028 1037 60.0
+876 851 120.0
+876 1113 104.0
+851 797 240.0
+851 1019 79.0
+797 894 180.0
+797 550 60.0
+797 253 207.0
+797 758 60.0
+894 957 240.0
+894 1120 91.0
+1205 778 240.0
+1205 499 60.0
+1205 199 226.0
+859 1027 420.0
+859 963 60.0
+1027 887 240.0
+1027 807 60.0
+887 1068 240.0
+887 941 83.0
+1068 804 60.0
+1068 822 60.0
+804 785 240.0
+804 973 60.0
+736 1003 180.0
+736 1212 70.0
+1003 1057 180.0
+1003 970 60.0
+1057 869 300.0
+1057 813 60.0
+869 1091 360.0
+869 4 328.0
+869 368 145.0
+869 1033 60.0
+1071 760 360.0
+1071 281 265.0
+1071 529 117.0
+1234 1317 270.0
+1234 1239 97.0
+1234 1323 123.0
+1322 1254 420.0
+1322 1221 13.0
+1322 1295 6.0
+1254 1278 300.0
+1254 1217 64.0
+1254 1319 6.0
+1278 229 3300.0
+1278 226 480.0
+1278 1273 3.0
+1278 1225 31.0
+374 443 180.0
+374 412 249.0
+374 51 187.0
+517 497 360.0
+517 114 247.0
+517 511 60.0
+517 591 274.0
+517 595 268.0
+497 352 360.0
+497 402 66.0
+497 55 231.0
+497 589 89.0
+352 583 360.0
+352 414 60.0
+583 507 420.0
+583 373 60.0
+583 194 198.0
+507 549 120.0
+507 172 301.0
+507 471 64.0
+549 372 240.0
+549 483 256.0
+549 434 349.0
+549 541 60.0
+881 1105 840.0
+881 711 294.0
+953 370 180.0
+953 903 60.0
+1122 1173 60.0
+1122 1134 60.0
+1173 772 300.0
+1173 1158 60.0
+1052 844 420.0
+1052 861 60.0
+1109 1098 360.0
+1109 1147 95.0
+1168 1107 240.0
+1168 1139 60.0
+858 1121 300.0
+858 898 60.0
+410 473 300.0
+410 268 198.0
+473 575 720.0
+473 306 201.0
+575 609 420.0
+575 140 306.0
+609 590 600.0
+609 348 236.0
+590 423 480.0
+590 134 239.0
+525 623 360.0
+525 504 61.0
+525 72 205.0
+479 599 180.0
+479 236 138.0
+479 448 76.0
+434 438 180.0
+434 541 322.0
+434 549 349.0
+434 483 77.0
+438 565 300.0
+438 564 80.0
+438 556 60.0
+438 179 268.0
+515 468 240.0
+515 98 222.0
+515 416 60.0
+515 530 60.0
+468 375 240.0
+468 387 60.0
+468 220 356.0
+468 484 93.0
+375 620 240.0
+375 302 365.0
+375 392 60.0
+541 471 120.0
+541 483 228.0
+541 549 60.0
+541 434 322.0
+414 589 300.0
+414 352 60.0
+589 511 360.0
+589 55 219.0
+589 402 60.0
+589 497 89.0
+511 420 360.0
+511 114 215.0
+511 517 60.0
+511 591 234.0
+511 595 231.0
+546 433 600.0
+546 1156 89.0
+546 514 71.0
+546 285 202.0
+1285 1272 360.0
+1285 1235 25.0
+1285 1260 6.0
+1224 1311 120.0
+1042 1087 71.0
+1042 686 324.0
+1042 776 251.0
+762 229 302.0
+762 1062 193.0
+762 490 176.0
+762 1024 124.0
+955 1149 60.0
+955 68 350.0
+955 1115 249.0
+955 878 84.0
+955 611 153.0
+955 896 127.0
+955 930 60.0
+611 1149 193.0
+611 930 154.0
+611 68 436.0
+611 878 70.0
+611 896 175.0
+611 955 153.0
+901 127 340.0
+901 11 297.0
+901 842 60.0
+901 364 60.0
+1149 611 193.0
+1149 68 335.0
+1149 955 60.0
+1149 896 138.0
+1149 878 123.0
+1149 1115 204.0
+1149 930 60.0
+1007 766 152.0
+1007 891 130.0
+1007 612 162.0
+1007 166 244.0
+1007 542 73.0
+423 21 290.0
+364 11 246.0
+364 842 100.0
+364 127 327.0
+364 901 60.0
+1294 1330 5.0
+1294 1229 21.0
+1287 1267 7.0
+1287 1219 20.0
